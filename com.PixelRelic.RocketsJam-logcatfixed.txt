@@ -1,0 +1,1408 @@
+0001-01-01 00:00:00.000 -1 -1 Info  --------- beginning of main
+2024-05-22 14:50:41.466 17734 17734 Info elic.RocketsJa Late-enabling -Xcheck:jni
+2024-05-22 14:50:41.494 17734 17734 Info elic.RocketsJa Using CollectorTypeCC GC.
+2024-05-22 14:50:41.504 17734 17734 Error USNET USNET: appName: com.PixelRelic.RocketsJam
+2024-05-22 14:50:41.512 17734 17734 Debug ProcessState Binder ioctl to enable oneway spam detection failed: Invalid argument
+2024-05-22 14:50:41.518 17734 17734 Debug ActivityThread setConscryptValidator
+2024-05-22 14:50:41.518 17734 17734 Debug ActivityThread setConscryptValidator - put
+0001-01-01 00:00:00.000 -1 -1 Info  --------- beginning of system
+2024-05-22 14:50:41.586 17734 17734 Debug ActivityThread handleBindApplication()++ app=com.PixelRelic.RocketsJam
+2024-05-22 14:50:41.588 17734 17734 Debug CompatibilityChangeReporter Compat change id reported: 171979766; UID 11890; state: ENABLED
+2024-05-22 14:50:41.616 17734 17734 Debug nativeloader Configuring clns-4 for other apk /data/app/~~w6UWJlpWA_vWEPq5Rj5G0A==/com.PixelRelic.RocketsJam-lAwcLz13UwdZ6Ktz1skbug==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~w6UWJlpWA_vWEPq5Rj5G0A==/com.PixelRelic.RocketsJam-lAwcLz13UwdZ6Ktz1skbug==/lib/arm64:/data/app/~~w6UWJlpWA_vWEPq5Rj5G0A==/com.PixelRelic.RocketsJam-lAwcLz13UwdZ6Ktz1skbug==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.PixelRelic.RocketsJam
+2024-05-22 14:50:41.630 17734 17734 Verbose GraphicsEnvironment ANGLE Developer option for 'com.PixelRelic.RocketsJam' set to: 'default'
+2024-05-22 14:50:41.631 17734 17734 Verbose GraphicsEnvironment Updatable production driver is not supported on the device.
+2024-05-22 14:50:41.634 17734 17734 Debug LoadedApk LoadedApk::makeApplication() appContext.mOpPackageName=com.PixelRelic.RocketsJam appContext.mBasePackageName=com.PixelRelic.RocketsJam
+2024-05-22 14:50:41.635 17734 17734 Debug NetworkSecurityConfig No Network Security Config specified, using platform default
+2024-05-22 14:50:41.682 17734 17734 Debug NetworkSecurityConfig No Network Security Config specified, using platform default
+2024-05-22 14:50:41.747 17734 17825 Warn com.facebook.internal.NativeProtocol Apps that target Android API 30+ (Android 11+) cannot call Facebook native apps unless the package visibility needs are declared. Please follow https://developers.facebook.com/docs/android/troubleshooting/#faq_267321845055988 to make the declaration.
+2024-05-22 14:50:41.760 17734 17734 Debug ActivityThread handleBindApplication() --
+2024-05-22 14:50:41.791 17734 17835 Info SafeDK SafeDK Device ID: 6b199291-3d98-452e-9d70-84975805fec5
+2024-05-22 14:50:41.791 17734 17835 Info SafeDK SafeDK version: 5.2.6
+2024-05-22 14:50:41.833 17734 17734 Info DecorView [INFO] isPopOver=false, config=true
+2024-05-22 14:50:41.834 17734 17734 Info DecorView updateCaptionType >> DecorView@ae20c4d[], isFloating=false, isApplication=true, hasWindowControllerCallback=true, hasWindowDecorCaption=false
+2024-05-22 14:50:41.834 17734 17734 Debug DecorView setCaptionType = 0, this = DecorView@ae20c4d[]
+2024-05-22 14:50:41.841 17734 17734 Info DecorView getCurrentDensityDpi: from real metrics. densityDpi=315 msg=resources_loaded
+2024-05-22 14:50:41.990 17734 17734 Info IL2CPP JNI_OnLoad
+2024-05-22 14:50:42.051 17734 17734 Info DecorView notifyKeepScreenOnChanged: keepScreenOn=false
+2024-05-22 14:50:42.053 17734 17734 Debug InsetsSourceConsumer setRequestedVisible: visible=false, type=21, host=com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity, from=android.view.InsetsSourceConsumer.hide:242 android.view.InsetsController.collectSourceControls:1215 android.view.InsetsController.controlAnimationUnchecked:1077 android.view.InsetsController.applyAnimation:1456 android.view.InsetsController.applyAnimation:1437 android.view.InsetsController.hide:1006 android.view.InsetsController.hide:981 android.view.ViewRootImpl.controlInsetsForCompatibility:3142 android.view.ViewRootImpl.setView:1555 android.view.WindowManagerGlobal.addView:509 
+2024-05-22 14:50:42.053 17734 17734 Debug InsetsSourceConsumer setRequestedVisible: visible=false, type=20, host=com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity, from=android.view.InsetsSourceConsumer.hide:242 android.view.InsetsController.collectSourceControls:1215 android.view.InsetsController.controlAnimationUnchecked:1077 android.view.InsetsController.applyAnimation:1456 android.view.InsetsController.applyAnimation:1437 android.view.InsetsController.hide:1006 android.view.InsetsController.hide:981 android.view.ViewRootImpl.controlInsetsForCompatibility:3142 android.view.ViewRootImpl.setView:1555 android.view.WindowManagerGlobal.addView:509 
+2024-05-22 14:50:42.054 17734 17734 Debug InsetsSourceConsumer setRequestedVisible: visible=false, type=1, host=com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity, from=android.view.InsetsSourceConsumer.hide:242 android.view.InsetsController.collectSourceControls:1215 android.view.InsetsController.controlAnimationUnchecked:1077 android.view.InsetsController.applyAnimation:1456 android.view.InsetsController.applyAnimation:1437 android.view.InsetsController.hide:1006 android.view.InsetsController.hide:981 android.view.ViewRootImpl.controlInsetsForCompatibility:3142 android.view.ViewRootImpl.setView:1555 android.view.WindowManagerGlobal.addView:509 
+2024-05-22 14:50:42.054 17734 17734 Debug InsetsSourceConsumer setRequestedVisible: visible=false, type=0, host=com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity, from=android.view.InsetsSourceConsumer.hide:242 android.view.InsetsController.collectSourceControls:1215 android.view.InsetsController.controlAnimationUnchecked:1077 android.view.InsetsController.applyAnimation:1456 android.view.InsetsController.applyAnimation:1437 android.view.InsetsController.hide:1006 android.view.InsetsController.hide:981 android.view.ViewRootImpl.controlInsetsForCompatibility:3142 android.view.ViewRootImpl.setView:1555 android.view.WindowManagerGlobal.addView:509 
+2024-05-22 14:50:42.062 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] setView = com.android.internal.policy.DecorView@ae20c4d TM=true
+2024-05-22 14:50:42.086 17734 17734 Info SurfaceView@9f5ce5 onWindowVisibilityChanged(0) true android.view.SurfaceView{9f5ce5 VFE...... .F....I. 0,0-0,0 #7f0a0143 app:id/unitySurfaceView} of ViewRootImpl@ceb4c5b[UnityPlayerActivity]
+2024-05-22 14:50:42.117 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] Relayout returned: old=(0,0,810,1800) new=(0,67,810,1799) req=(810,1800)0 dur=12 res=0x7 s={true -5476376662012174720} ch=true fn=-1
+2024-05-22 14:50:42.124 17734 17734 Info SurfaceView@9f5ce5 windowStopped(false) true android.view.SurfaceView{9f5ce5 VFE...... .F....ID 0,0-810,1731 #7f0a0143 app:id/unitySurfaceView} of ViewRootImpl@ceb4c5b[UnityPlayerActivity]
+2024-05-22 14:50:42.131 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11420 android.view.ViewRootImpl.performTraversals:4193 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:50:42.143 17734 17734 Info SurfaceView@9f5ce5 pST: sr = Rect(0, 1 - 810, 1732) sw = 810 sh = 1731
+2024-05-22 14:50:42.143 17734 17734 Info SurfaceView@9f5ce5 onSSPAndSRT: pl = 0 pt = 1 sx = 1.0 sy = 1.0
+2024-05-22 14:50:42.143 17734 17734 Info SurfaceView@9f5ce5 pST: mTmpTransaction.apply, mTmpTransaction = android.view.SurfaceControl$Transaction@36a671a
+2024-05-22 14:50:42.144 17734 17734 Info SurfaceView@9f5ce5 updateSurface: mVisible = true mSurface.isValid() = true
+2024-05-22 14:50:42.144 17734 17734 Info SurfaceView@9f5ce5 updateSurface: mSurfaceCreated = false surfaceChanged = true visibleChanged = true
+2024-05-22 14:50:42.144 17734 17734 Info SurfaceView@9f5ce5 surfaceCreated 1 #8 android.view.SurfaceView{9f5ce5 VFE...... .F....ID 0,0-810,1731 #7f0a0143 app:id/unitySurfaceView}
+2024-05-22 14:50:42.147 17734 17734 Info SurfaceView@9f5ce5 surfaceChanged (810,1731) 1 #8 android.view.SurfaceView{9f5ce5 VFE...... .F....ID 0,0-810,1731 #7f0a0143 app:id/unitySurfaceView}
+2024-05-22 14:50:42.148 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] dp(2) 1 android.view.SurfaceView.updateSurface:1375 android.view.SurfaceView.lambda$new$1$SurfaceView:254 android.view.SurfaceView$$ExternalSyntheticLambda2.onPreDraw:2 
+2024-05-22 14:50:42.150 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] pdf(1) 1 android.view.SurfaceView.notifyDrawFinished:599 android.view.SurfaceView.performDrawFinished:586 android.view.SurfaceView.$r8$lambda$st27mCkd9jfJkTrN_P3qIGKX6NY:0 
+2024-05-22 14:50:42.151 17734 17734 Debug hw-ProcessState Binder ioctl to enable oneway spam detection failed: Invalid argument
+2024-05-22 14:50:42.172 17734 17734 Info BufferQueueProducer [ViewRootImpl@ceb4c5b[UnityPlayerActivity]#0(BLAST Consumer)0](id:454600000000,api:2,p:17734,c:17734) queueBuffer: queued for the first time.
+2024-05-22 14:50:42.173 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] pdf(0) 1 android.view.ViewRootImpl.performDraw:5207 android.view.ViewRootImpl.performTraversals:4212 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:50:42.173 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] rdf()
+2024-05-22 14:50:42.173 17734 17734 Debug ViewRootImpl@ceb4c5b[UnityPlayerActivity] reportDrawFinished (fn: -1) 
+2024-05-22 14:50:42.188 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] MSG_WINDOW_FOCUS_CHANGED 1 1
+2024-05-22 14:50:42.196 17734 17734 Debug InputMethodManager startInputInner - Id : 0
+2024-05-22 14:50:42.197 17734 17734 Info InputMethodManager startInputInner - mService.startInputOrWindowGainedFocus
+2024-05-22 14:50:42.211 17734 17884 Info Unity MemoryManager: Using 'Dynamic Heap' Allocator.
+2024-05-22 14:50:42.228 17734 17734 Debug InputMethodManager startInputInner - Id : 0
+2024-05-22 14:50:42.281 17734 17884 Warn elic.RocketsJa Accessing hidden method Ljava/lang/invoke/MethodHandles$Lookup;-><init>(Ljava/lang/Class;I)V (unsupported, reflection, allowed)
+2024-05-22 14:50:42.394 17734 17734 Info DecorView notifyKeepScreenOnChanged: keepScreenOn=true
+2024-05-22 14:50:42.411 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] Relayout returned: old=(0,67,810,1799) new=(0,67,810,1799) req=(810,1732)0 dur=7 res=0x1 s={true -5476376662012174720} ch=false fn=2
+2024-05-22 14:50:42.411 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] updateBoundsLayer: t = android.view.SurfaceControl$Transaction@92b1607 sc = Surface(name=Bounds for - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@0)/@0x878b334 frame = 2
+2024-05-22 14:50:42.412 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] mWNT: t = android.view.SurfaceControl$Transaction@92b1607 fN = 2 android.view.ViewRootImpl.prepareSurfaces:2778 android.view.ViewRootImpl.performTraversals:4024 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:50:42.412 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] mWNT: merge t to BBQ
+2024-05-22 14:50:42.416 17734 17884 Info Unity SystemInfo CPU = ARM64 FP ASIMD AES, Cores = 8, Memory = 5525mb
+2024-05-22 14:50:42.416 17734 17884 Info Unity SystemInfo ARM big.LITTLE configuration: 2 big (mask: 0xc0), 6 little (mask: 0x3f)
+2024-05-22 14:50:42.416 17734 17884 Info Unity ApplicationInfo com.PixelRelic.RocketsJam version 0.2
+2024-05-22 14:50:42.417 17734 17884 Info Unity Built from '2021.3/release' branch, Version '2021.3.27f1 (ca3ffb99bcc6)', Build type 'Release', Scripting Backend 'il2cpp', CPU 'arm64-v8a', Stripping 'Enabled'
+2024-05-22 14:50:42.436 17734 17734 Info DecorView notifyKeepScreenOnChanged: keepScreenOn=true
+2024-05-22 14:50:42.445 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] Relayout returned: old=(0,67,810,1799) new=(0,67,810,1799) req=(810,1732)0 dur=7 res=0x1 s={true -5476376662012174720} ch=false fn=3
+2024-05-22 14:50:42.447 17734 17734 Info SurfaceView@9f5ce5 pST: sr = Rect(0, 0 - 810, 1732) sw = 810 sh = 1732
+2024-05-22 14:50:42.447 17734 17734 Info SurfaceView@9f5ce5 onSSPAndSRT: pl = 0 pt = 0 sx = 1.0 sy = 1.0
+2024-05-22 14:50:42.447 17734 17734 Info SurfaceView@9f5ce5 pST: mTmpTransaction.apply, mTmpTransaction = android.view.SurfaceControl$Transaction@36a671a
+2024-05-22 14:50:42.448 17734 17734 Info SurfaceView@9f5ce5 updateSurface: mVisible = true mSurface.isValid() = true
+2024-05-22 14:50:42.448 17734 17734 Info SurfaceView@9f5ce5 updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+2024-05-22 14:50:42.448 17734 17734 Info SurfaceView@9f5ce5 surfaceChanged (810,1732) 1 #5 android.view.SurfaceView{9f5ce5 VFE...... .F....ID 0,0-810,1732 #7f0a0143 app:id/unitySurfaceView aid=1073741824}
+2024-05-22 14:50:42.466 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] dp(1) 1 android.view.SurfaceView.updateSurface:1375 android.view.SurfaceView.setFrame:675 android.view.View.layout:24458 
+2024-05-22 14:50:42.466 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] pdf(0) 1 android.view.SurfaceView.notifyDrawFinished:599 android.view.SurfaceView.performDrawFinished:586 android.view.SurfaceView.$r8$lambda$st27mCkd9jfJkTrN_P3qIGKX6NY:0 
+2024-05-22 14:50:42.466 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] rdf()
+2024-05-22 14:50:42.466 17734 17734 Debug ViewRootImpl@ceb4c5b[UnityPlayerActivity] reportDrawFinished (fn: 3) 
+2024-05-22 14:50:42.509 17734 17817 Warn AnalyticsUserIDStore initStore should have been called before calling setUserID
+2024-05-22 14:50:42.797 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.797 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.797 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.797 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.798 17734 17884 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2024-05-22 14:50:42.854 17734 17884 Info Unity Company Name: Pixel Relic
+2024-05-22 14:50:42.854 17734 17884 Info Unity Product Name: Tap Away Jam
+2024-05-22 14:50:42.871 17734 17884 Debug vulkan searching for layers in '/data/app/~~w6UWJlpWA_vWEPq5Rj5G0A==/com.PixelRelic.RocketsJam-lAwcLz13UwdZ6Ktz1skbug==/lib/arm64'
+2024-05-22 14:50:42.872 17734 17884 Debug vulkan searching for layers in '/data/app/~~w6UWJlpWA_vWEPq5Rj5G0A==/com.PixelRelic.RocketsJam-lAwcLz13UwdZ6Ktz1skbug==/base.apk!/lib/arm64-v8a'
+2024-05-22 14:50:42.878 17734 17884 Info AdrenoVK-0 ===== BEGIN DUMP OF OVERRIDDEN SETTINGS =====
+2024-05-22 14:50:42.878 17734 17884 Info AdrenoVK-0 ===== END DUMP OF OVERRIDDEN SETTINGS =====
+2024-05-22 14:50:42.879 17734 17884 Info AdrenoVK-0 QUALCOMM build          : e1ac91e, I2b3b5fbd00
+2024-05-22 14:50:42.879 17734 17884 Info AdrenoVK-0 Build Date              : 11/17/20
+2024-05-22 14:50:42.879 17734 17884 Info AdrenoVK-0 Shader Compiler Version : EV031.32.02.06
+2024-05-22 14:50:42.879 17734 17884 Info AdrenoVK-0 Local Branch            : 
+2024-05-22 14:50:42.879 17734 17884 Info AdrenoVK-0 Remote Branch           : 
+2024-05-22 14:50:42.879 17734 17884 Info AdrenoVK-0 Remote Branch           : 
+2024-05-22 14:50:42.879 17734 17884 Info AdrenoVK-0 Reconstruct Branch      : 
+2024-05-22 14:50:42.879 17734 17884 Info AdrenoVK-0 Build Config            : S P 10.0.7 AArch64
+2024-05-22 14:50:42.879 17734 17884 Info AdrenoVK-0 Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+2024-05-22 14:50:42.883 17734 17884 Info AdrenoVK-0 QUALCOMM build          : e1ac91e, I2b3b5fbd00
+2024-05-22 14:50:42.883 17734 17884 Info AdrenoVK-0 Build Date              : 11/17/20
+2024-05-22 14:50:42.883 17734 17884 Info AdrenoVK-0 Shader Compiler Version : EV031.32.02.06
+2024-05-22 14:50:42.883 17734 17884 Info AdrenoVK-0 Local Branch            : 
+2024-05-22 14:50:42.883 17734 17884 Info AdrenoVK-0 Remote Branch           : 
+2024-05-22 14:50:42.883 17734 17884 Info AdrenoVK-0 Remote Branch           : 
+2024-05-22 14:50:42.883 17734 17884 Info AdrenoVK-0 Reconstruct Branch      : 
+2024-05-22 14:50:42.883 17734 17884 Info AdrenoVK-0 Build Config            : S P 10.0.7 AArch64
+2024-05-22 14:50:42.883 17734 17884 Info AdrenoVK-0 Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+2024-05-22 14:50:42.927 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:42.928 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:42.928 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:42.928 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:42.930 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:42.930 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:42.942 17734 17991 Debug Choreographer Attaching thread to JVM for AChoreographer
+2024-05-22 14:50:42.944 17734 17884 Verbose SwappyVk SwappyVk initialized for VkDevice 0xb400006f74856410 using VK_GOOGLE_display_timing on Android
+2024-05-22 14:50:42.944 17734 17884 Info SwappyVk Returning refresh duration of 16666666 nsec (approx 60.000002 Hz)
+2024-05-22 14:50:42.974 17734 17884 Verbose MediaRouter Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+2024-05-22 14:50:42.974 17734 17884 Info MediaRouter Skip setBluetoothA2dpOn(): types=8388615, isPlaybackActive()=false, BT route=null
+2024-05-22 14:50:42.992 17734 17884 Debug elic.RocketsJa PlayerBase::PlayerBase()
+2024-05-22 14:50:42.993 17734 17884 Debug elic.RocketsJa TrackPlayerBase::TrackPlayerBase()
+2024-05-22 14:50:42.993 17734 17884 Info libOpenSLES Emulating old channel mask behavior (ignoring positional mask 0x3, using default mask 0x3 based on channel count of 2)
+2024-05-22 14:50:42.993 17734 17884 Warn AudioTrack set(): notificationFrames=-21 clamped to the range -1 to -8
+2024-05-22 14:50:42.998 17734 17884 Info AudioTrack createTrack_l(0): AUDIO_OUTPUT_FLAG_FAST successful; frameCount 0 -> 768
+2024-05-22 14:50:43.005 17734 17734 Debug MediaRouter onRestoreRoute() : route=RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+2024-05-22 14:50:43.006 17734 17734 Verbose MediaRouter Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+2024-05-22 14:50:43.213 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:43.213 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:43.213 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:43.213 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:43.214 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:43.214 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:43.220 17734 17884 Verbose SwappyVk SwappyVk initialized for VkDevice 0xb400006f74856410 using VK_GOOGLE_display_timing on Android
+2024-05-22 14:50:43.220 17734 17884 Info SwappyVk Returning refresh duration of 16666666 nsec (approx 60.000002 Hz)
+2024-05-22 14:50:43.317 17734 17989 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) queueBuffer: queued for the first time.
+2024-05-22 14:50:45.652 17734 17884 Info Unity Initializing Lion Suite v3.5.1...
+2024-05-22 14:50:45.652 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:45.652 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:45.652 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:Initialize(CancellationToken)
+2024-05-22 14:50:45.652 17734 17884 Info Unity 
+2024-05-22 14:50:45.666 17734 17884 Info Unity Lion Core: SDK Cache initialized! 0 SDKs found.
+2024-05-22 14:50:45.666 17734 17884 Info Unity LionStudios.Suite.Core.LionSdkService:get_SdkCache()
+2024-05-22 14:50:45.666 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:GetContext()
+2024-05-22 14:50:45.666 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:45.666 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:45.666 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:Initialize(CancellationToken)
+2024-05-22 14:50:45.666 17734 17884 Info Unity 
+2024-05-22 14:50:45.682 17734 17884 Info Unity Lion Core: Module Cache initialized! 8 modules found:
+2024-05-22 14:50:45.682 17734 17884 Info Unity  - LionAnalytics
+2024-05-22 14:50:45.682 17734 17884 Info Unity  - MessageManager
+2024-05-22 14:50:45.682 17734 17884 Info Unity  - AdjustInitialization
+2024-05-22 14:50:45.682 17734 17884 Info Unity  - FacebookInitialization
+2024-05-22 14:50:45.682 17734 17884 Info Unity  - FirebaseInitialization
+2024-05-22 14:50:45.682 17734 17884 Info Unity  - HelpshiftInitialization
+2024-05-22 14:50:45.682 17734 17884 Info Unity  - MaxInitialization
+2024-05-22 14:50:45.682 17734 17884 Info Unity  - NakamaConnector
+2024-05-22 14:50:45.682 17734 17884 Info Unity LionStudios.Suite.Core.LionModuleService:get_ModuleCache()
+2024-05-22 14:50:45.682 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:GetContext()
+2024-05-22 14:50:45.682 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:45.682 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:45.682 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:Initialize(CancellationToken)
+2024-05-22 14:50:45.682 17734 17884 Info Unity 
+2024-05-22 14:50:45.687 17734 17884 Info Unity [IP-API] Try Get Location
+2024-05-22 14:50:45.687 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__10:MoveNext()
+2024-05-22 14:50:45.687 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:45.687 17734 17884 Info Unity LionStudios.Suite.Core.LocationInfoService:Initialize()
+2024-05-22 14:50:45.687 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:45.687 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:45.687 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:Initialize(CancellationToken)
+2024-05-22 14:50:45.687 17734 17884 Info Unity 
+2024-05-22 14:50:45.693 17734 17884 Info IL2CPP Locale en-GB
+2024-05-22 14:50:45.709 17734 17734 Info DecorView notifyKeepScreenOnChanged: keepScreenOn=false
+2024-05-22 14:50:45.726 17734 17763 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] Resizing android.view.ViewRootImpl@870fb7e: frame=[0,0][810,1800] reportDraw=true forceLayout=true backDropFrame=Rect(0, 0 - 810, 1800)
+2024-05-22 14:50:45.726 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] Relayout returned: old=(0,67,810,1799) new=(0,0,810,1800) req=(810,1732)0 dur=7 res=0x81 s={true -5476376662012174720} ch=false fn=5
+2024-05-22 14:50:45.726 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11420 android.view.ViewRootImpl.performTraversals:3698 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:50:45.728 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] updateBoundsLayer: t = android.view.SurfaceControl$Transaction@92b1607 sc = Surface(name=Bounds for - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@0)/@0x878b334 frame = 5
+2024-05-22 14:50:45.728 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] mWNT: t = android.view.SurfaceControl$Transaction@92b1607 fN = 5 android.view.ViewRootImpl.prepareSurfaces:2778 android.view.ViewRootImpl.performTraversals:4024 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:50:45.728 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] mWNT: merge t to BBQ
+2024-05-22 14:50:45.729 17734 17734 Info SurfaceView@9f5ce5 pST: sr = Rect(0, 0 - 810, 1800) sw = 810 sh = 1800
+2024-05-22 14:50:45.729 17734 17734 Info SurfaceView@9f5ce5 onSSPAndSRT: pl = 0 pt = 0 sx = 1.0 sy = 1.0
+2024-05-22 14:50:45.729 17734 17734 Info SurfaceView@9f5ce5 pST: mTmpTransaction.apply, mTmpTransaction = android.view.SurfaceControl$Transaction@36a671a
+2024-05-22 14:50:45.730 17734 17734 Info SurfaceView@9f5ce5 updateSurface: mVisible = true mSurface.isValid() = true
+2024-05-22 14:50:45.730 17734 17734 Info SurfaceView@9f5ce5 updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+2024-05-22 14:50:45.730 17734 17734 Info SurfaceView@9f5ce5 surfaceChanged (810,1800) 1 #5 android.view.SurfaceView{9f5ce5 VFE...... .F....ID 0,0-810,1800 #7f0a0143 app:id/unitySurfaceView aid=1073741824}
+2024-05-22 14:50:45.730 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] dp(2) 1 android.view.SurfaceView.updateSurface:1375 android.view.SurfaceView.setFrame:675 android.view.View.layout:24458 
+2024-05-22 14:50:45.731 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] pdf(1) 1 android.view.SurfaceView.notifyDrawFinished:599 android.view.SurfaceView.performDrawFinished:586 android.view.SurfaceView.$r8$lambda$st27mCkd9jfJkTrN_P3qIGKX6NY:0 
+2024-05-22 14:50:45.739 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] pdf(0) 1 android.view.ViewRootImpl.performDraw:5207 android.view.ViewRootImpl.performTraversals:4212 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:50:45.739 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] rdf()
+2024-05-22 14:50:45.739 17734 17734 Debug ViewRootImpl@ceb4c5b[UnityPlayerActivity] reportDrawFinished (fn: 5) 
+2024-05-22 14:50:45.741 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] handleResized, msg = 5 frames=ClientWindowFrames{frame=[0,0][810,1800] display=[0,0][810,1800] backdrop=[0,0][810,1800]} forceNextWindowRelayout=true displayId=0 frameChanged=false backdropFrameChanged=false configChanged=false displayChanged=false mNextDrawUseBlastSync=false mergedConfiguration={mGlobalConfig={1.1 404mcc90mnc [en_GB] ldltr sw411dp w411dp h831dp 315dpi nrml long port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 810, 1800) mAppBounds=Rect(0, 67 - 810, 1704) mMaxBounds=Rect(0, 0 - 810, 1800) mWindowingMode=fullscreen mDisplayWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0 mPopOver=off mFreeformTaskPinningState=unpinned} s.5856 fontWeightAdjustment=0 ff=0 bf=0 bts=0 enb/d themeSeq=0} mOverrideConfig={1.1 404mcc90mnc [en_GB] ldltr sw411dp w411dp h831dp 315dpi nrml long port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 810, 1800) mAppBounds=Rect(0, 67 - 810, 1704) mMaxBounds=Rect(0, 0 - 810, 1800) mWindowingMode=fullscreen mDisplayWindowingMode=fullscreen mActivityType=standard mAlwaysOnTop=undefined mRotation=ROTATION_0 mPopOver=off mFreeformTaskPinningState=unpinned} s.1 fontWeightAdjustment=0 ff=0 bf=0 bts=0 enb/d themeSeq=0}}
+2024-05-22 14:50:45.742 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11420 android.view.ViewRootImpl.handleResized:2230 android.view.ViewRootImpl.access$1200:302 
+2024-05-22 14:50:45.756 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] Relayout returned: old=(0,0,810,1800) new=(0,0,810,1800) req=(810,1800)0 dur=5 res=0x1 s={true -5476376662012174720} ch=false fn=6
+2024-05-22 14:50:45.768 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] pdf(0) 1 android.view.ViewRootImpl.performDraw:5207 android.view.ViewRootImpl.performTraversals:4212 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:50:45.768 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] rdf()
+2024-05-22 14:50:45.768 17734 17734 Debug ViewRootImpl@ceb4c5b[UnityPlayerActivity] reportDrawFinished (fn: 6) 
+2024-05-22 14:50:45.949 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:45.949 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:45.949 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:45.949 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:45.950 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:45.950 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:45.961 17734 17884 Verbose SwappyVk SwappyVk initialized for VkDevice 0xb400006f74856410 using VK_GOOGLE_display_timing on Android
+2024-05-22 14:50:45.961 17734 17884 Info SwappyVk Returning refresh duration of 16666666 nsec (approx 60.000002 Hz)
+2024-05-22 14:50:45.982 17734 17989 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) queueBuffer: queued for the first time.
+2024-05-22 14:50:47.282 17734 17884 Info Unity [IP-API] Updated Location: IN / MH
+2024-05-22 14:50:47.282 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__10:MoveNext()
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:47.282 17734 17884 Info Unity LionStudios.Suite.Core.<GetUserRegionByIpAsync>d__11:MoveNext()
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Threading.Tasks.TaskCompletionSource`1:TrySetResult(TResult)
+2024-05-22 14:50:47.282 17734 17884 Info Unity System.Threading.Tasks.TaskCompletionSource`
+2024-05-22 14:50:47.400 17734 17884 Info Unity Lion Core: SDK Cache initialized! 0 SDKs found.
+2024-05-22 14:50:47.400 17734 17884 Info Unity LionStudios.Suite.Core.LionSdkService:get_SdkCache()
+2024-05-22 14:50:47.400 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:47.400 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__10:MoveNext()
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.400 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:S
+2024-05-22 14:50:47.404 17734 17884 Info Unity Lion Core: Starting initialization of modules with priority: 0
+2024-05-22 14:50:47.404 17734 17884 Info Unity { FacebookInitialization, FirebaseInitialization }
+2024-05-22 14:50:47.404 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:47.404 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__10:MoveNext()
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.404 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMeth
+2024-05-22 14:50:47.406 17734 17884 Info Unity Lion Core: Initializing Facebook
+2024-05-22 14:50:47.406 17734 17884 Info Unity LionStudios.Suite.ThirdParty.<Initialize>d__11:MoveNext()
+2024-05-22 14:50:47.406 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.406 17734 17884 Info Unity LionStudios.Suite.ThirdParty.FacebookInitialization:Initialize(Dispatcher, CoreData)
+2024-05-22 14:50:47.406 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:47.406 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.406 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:47.406 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:47.406 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.406 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.406 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.406 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.406 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.406 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:47.406 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__10:MoveNext()
+2024-05-22 14:50:47.406 17734 17884 Info Unity System.Threading.ExecutionC
+2024-05-22 14:50:47.416 17734 17884 Warn Unity This example uses Unity Engine OLD input system. If you are using new Input System and you want to use this example, please set your input configuration to BOTH.
+2024-05-22 14:50:47.416 17734 17884 Warn Unity Facebook.Unity.CodelessUIInteractEvent:Awake()
+2024-05-22 14:50:47.416 17734 17884 Warn Unity UnityEngine.GameObject:AddComponent()
+2024-05-22 14:50:47.416 17734 17884 Warn Unity Facebook.Unity.FB:Init(InitDelegate, HideUnityDelegate, String)
+2024-05-22 14:50:47.416 17734 17884 Warn Unity LionStudios.Suite.ThirdParty.<Initialize>d__11:MoveNext()
+2024-05-22 14:50:47.416 17734 17884 Warn Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.416 17734 17884 Warn Unity LionStudios.Suite.ThirdParty.FacebookInitialization:Initialize(Dispatcher, CoreData)
+2024-05-22 14:50:47.416 17734 17884 Warn Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:47.416 17734 17884 Warn Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.416 17734 17884 Warn Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:47.416 17734 17884 Warn Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:47.416 17734 17884 Warn Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.416 17734 17884 Warn Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.416 17734 17884 Warn Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCall
+2024-05-22 14:50:47.419 17734 17884 Error Unity Firebase doesn't seem to be installed.
+2024-05-22 14:50:47.419 17734 17884 Error Unity LionStudios.Suite.ThirdParty.FirebaseInitialization:Initialize(Dispatcher, CoreData)
+2024-05-22 14:50:47.419 17734 17884 Error Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:47.419 17734 17884 Error Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.419 17734 17884 Error Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:47.419 17734 17884 Error Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:47.419 17734 17884 Error Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.419 17734 17884 Error Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.419 17734 17884 Error Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.419 17734 17884 Error Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.419 17734 17884 Error Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.419 17734 17884 Error Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:47.419 17734 17884 Error Unity LionStudios.Suite.Core.<Initialize>d__10:MoveNext()
+2024-05-22 14:50:47.419 17734 17884 Error Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.419 17734 17884 Error Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.419 17734 17884 Error Unity Syste
+2024-05-22 14:50:47.420 17734 17884 Info Unity Lion Core: FirebaseInitialization initialization complete in 0.001228333s
+2024-05-22 14:50:47.420 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:47.420 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.420 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:47.420 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:47.420 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.420 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.420 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.420 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.420 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.420 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:47.420 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__10:MoveNext()
+2024-05-22 14:50:47.420 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.420 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.420 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallbac
+2024-05-22 14:50:47.433 17734 17884 Verbose com.facebook.unity.FB SetUserAgentSuffix(Unity.14.1.0)
+2024-05-22 14:50:47.434 17734 17884 Verbose com.facebook.unity.FB Init({"appId":"370392239233906","clientToken":"6ccea1fce6f98846114122a435f908af"})
+2024-05-22 14:50:47.435 17734 17884 Debug com.facebook.unity.FB KeyHash: vgjnid9Xp2dzUwfFdtsLsWDNhuQ=
+2024-05-22 14:50:47.437 17734 17884 Verbose com.facebook.unity.FB sending to Unity OnInitComplete({"key_hash":"vgjnid9Xp2dzUwfFdtsLsWDNhuQ=\n"})
+2024-05-22 14:50:47.440 17734 17884 Info Unity Using Facebook Unity SDK v14.1.0 with FBAndroidSDK/14.1.1
+2024-05-22 14:50:47.440 17734 17884 Info Unity Facebook.Unity.CompiledFacebookLoader:Start()
+2024-05-22 14:50:47.440 17734 17884 Info Unity 
+2024-05-22 14:50:47.443 17734 17884 Warn com.facebook.unity.FB Activite app only needs to be called once
+2024-05-22 14:50:47.503 17734 17884 Info Unity Lion Core: FacebookInitialization initialization complete in 0.09626055s
+2024-05-22 14:50:47.503 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:47.503 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.503 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.503 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.503 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.503 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.503 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:47.503 17734 17884 Info Unity LionStudios.Suite.ThirdParty.<Initialize>d__11:MoveNext()
+2024-05-22 14:50:47.503 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.503 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.503 17734 17884 Info Unity UnityEngine.WorkRequest:Invoke()
+2024-05-22 14:50:47.503 17734 17884 Info Unity UnityEngine.UnitySynchronizationContext:Exec()
+2024-05-22 14:50:47.503 17734 17884 Info Unity 
+2024-05-22 14:50:47.504 17734 17884 Info Unity Lion Core: Starting initialization of modules with priority: 1
+2024-05-22 14:50:47.504 17734 17884 Info Unity { LionAnalytics }
+2024-05-22 14:50:47.504 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:47.504 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.504 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TRes
+2024-05-22 14:50:47.528 17734 17884 Warn Unity Could not find a part of the path '/Assets'.
+2024-05-22 14:50:47.528 17734 17884 Warn Unity System.Reflection.RuntimeConstructorInfo:InternalInvoke(Object, Object[], Boolean)
+2024-05-22 14:50:47.528 17734 17884 Warn Unity LionStudios.Suite.NamespaceUtil:GetObjectsOfType(Boolean)
+2024-05-22 14:50:47.528 17734 17884 Warn Unity LionStudios.Suite.Analytics.AnalyticsSdkBridge:.ctor()
+2024-05-22 14:50:47.528 17734 17884 Warn Unity LionStudios.Suite.Analytics.<LionStudios-Suite-Core-ILionModule-Initialize>d__45:MoveNext()
+2024-05-22 14:50:47.528 17734 17884 Warn Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.528 17734 17884 Warn Unity LionStudios.Suite.Analytics.LionAnalytics:LionStudios.Suite.Core.ILionModule.Initialize(Dispatcher, CoreData)
+2024-05-22 14:50:47.528 17734 17884 Warn Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:47.528 17734 17884 Warn Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.528 17734 17884 Warn Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:47.528 17734 17884 Warn Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:47.528 17734 17884 Warn Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.528 17734 17884 Warn Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.528 17734 17884 Warn Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Objec
+2024-05-22 14:50:47.530 17734 17884 Info Unity Lion Analytics: Found SDK 'Facebook'
+2024-05-22 14:50:47.530 17734 17884 Info Unity LionStudios.Suite.Analytics.AnalyticsSdkBridge:.ctor()
+2024-05-22 14:50:47.530 17734 17884 Info Unity LionStudios.Suite.Analytics.<LionStudios-Suite-Core-ILionModule-Initialize>d__45:MoveNext()
+2024-05-22 14:50:47.530 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.530 17734 17884 Info Unity LionStudios.Suite.Analytics.LionAnalytics:LionStudios.Suite.Core.ILionModule.Initialize(Dispatcher, CoreData)
+2024-05-22 14:50:47.530 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:47.530 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.530 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:47.530 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:47.530 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.530 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.530 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.530 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.530 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.530 17734 17884 Info Unity System.Runtime.CompilerServices.Async
+2024-05-22 14:50:47.531 17734 17884 Info Unity Lion Analytics: Found SDK 'ApplovinMAX'
+2024-05-22 14:50:47.531 17734 17884 Info Unity LionStudios.Suite.Analytics.AnalyticsSdkBridge:.ctor()
+2024-05-22 14:50:47.531 17734 17884 Info Unity LionStudios.Suite.Analytics.<LionStudios-Suite-Core-ILionModule-Initialize>d__45:MoveNext()
+2024-05-22 14:50:47.531 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.531 17734 17884 Info Unity LionStudios.Suite.Analytics.LionAnalytics:LionStudios.Suite.Core.ILionModule.Initialize(Dispatcher, CoreData)
+2024-05-22 14:50:47.531 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:47.531 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:47.531 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:47.531 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:47.531 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:47.531 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:47.531 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:47.531 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:47.531 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:47.531 17734 17884 Info Unity System.Runtime.CompilerServices.As
+2024-05-22 14:50:48.438 17734 17884 Info Unity Lion Core: LionAnalytics initialization complete in 0.9326611s
+2024-05-22 14:50:48.438 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:48.438 17734 17884 Info Unity LionStudios.Suite.Analytics.<LionStudios-Suite-Core-ILionModule-Initialize>d__45:MoveNext()
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:48.438 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBu
+2024-05-22 14:50:48.439 17734 17884 Info Unity Lion Core: Starting initialization of modules with priority: 2
+2024-05-22 14:50:48.439 17734 17884 Info Unity { MaxInitialization, NakamaConnector }
+2024-05-22 14:50:48.439 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:48.439 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:48.439 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBui
+2024-05-22 14:50:48.441 17734 17884 Info Unity Lion Core: Initializing MAX
+2024-05-22 14:50:48.441 17734 17884 Info Unity LionStudios.Suite.ThirdParty.<Initialize>d__13:MoveNext()
+2024-05-22 14:50:48.441 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:48.441 17734 17884 Info Unity LionStudios.Suite.ThirdParty.MaxInitialization:Initialize(Dispatcher, CoreData)
+2024-05-22 14:50:48.441 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:48.441 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:48.441 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:48.441 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:48.441 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:48.441 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:48.441 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:48.441 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:48.441 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:48.441 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:48.441 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:48.441 17734 17884 Info Unity System.Threading.ExecutionCont
+2024-05-22 14:50:48.451 17734 17734 Info DecorView notifyKeepScreenOnChanged: keepScreenOn=false
+2024-05-22 14:50:48.464 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] Relayout returned: old=(0,0,810,1800) new=(0,0,810,1800) req=(810,1800)0 dur=5 res=0x1 s={true -5476376662012174720} ch=false fn=7
+2024-05-22 14:50:48.482 17734 17884 Debug AppLovinSdk [AppLovinSdkSettings] setExtraParameter(key=eifc, value=iOf8gUDWef)
+2024-05-22 14:50:48.482 17734 17884 Debug AppLovinSdk [AppLovinSdkSettings] setVerboseLogging(isVerboseLoggingEnabled=false)
+2024-05-22 14:50:48.482 17734 17884 Debug AppLovinSdk [AppLovinSdkSettings] setInitializationAdUnitIds(initializationAdUnitIds=[])
+2024-05-22 14:50:48.483 17734 17884 Debug AppLovinSdk [AppLovinSdk] 
+2024-05-22 14:50:48.483 17734 17884 Debug AppLovinSdk ========================================
+2024-05-22 14:50:48.483 17734 17884 Debug AppLovinSdk SDK Session Begin
+2024-05-22 14:50:48.483 17734 17884 Debug AppLovinSdk ========================================
+2024-05-22 14:50:48.484 17734 17884 Debug AppLovinSdk [AppLovinSdk] Setting plugin version: Max-Unity-6.5.2
+2024-05-22 14:50:48.511 17734 18061 Warn elic.RocketsJa Accessing hidden method Landroid/app/ActivityThread;->currentProcessName()Ljava/lang/String; (unsupported, reflection, allowed)
+2024-05-22 14:50:48.519 17734 17884 Info Unity Client: Client(Host='lion-core.heroic.lionstudios.cc', Port=443, Scheme='https', ServerKey='jX4QtFguXpR5', Timeout=15)
+2024-05-22 14:50:48.519 17734 17884 Info Unity LionStudios.Suite.NakamaClient.<Connect>d__26:MoveNext()
+2024-05-22 14:50:48.519 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:48.519 17734 17884 Info Unity LionStudios.Suite.NakamaClient.NakamaConnection:Connect()
+2024-05-22 14:50:48.519 17734 17884 Info Unity LionStudios.Suite.NakamaClient.<Connect>d__16:MoveNext()
+2024-05-22 14:50:48.519 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:48.519 17734 17884 Info Unity LionStudios.Suite.NakamaClient.NakamaConnector:Connect()
+2024-05-22 14:50:48.519 17734 17884 Info Unity LionStudios.Suite.NakamaClient.<Initialize>d__9:MoveNext()
+2024-05-22 14:50:48.519 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:48.519 17734 17884 Info Unity LionStudios.Suite.NakamaClient.NakamaConnector:Initialize(Dispatcher, CoreData)
+2024-05-22 14:50:48.519 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:48.519 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:48.519 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:48.519 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:48.519 17734 17884 Info Unity System.Threading.ExecutionContex
+2024-05-22 14:50:50.261 17734 17884 Info Unity Session created: Session(AuthToken='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2YzM5OTllYy1hMjVmLTQ0ZTktYjhjZC0xYTAwYWQ4YTE0N2UiLCJ1c24iOiJudHVNV0ZHT29RIiwiZXhwIjoxNzE2Mzc2ODUxfQ.1TLeN70nTLgsfkuoFJ8ek7mqe4M_CgXfBygRp152o_s', Created=False, CreateTime=50, ExpireTime=1716376851, RefreshToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2YzM5OTllYy1hMjVmLTQ0ZTktYjhjZC0xYTAwYWQ4YTE0N2UiLCJ1c24iOiJudHVNV0ZHT29RIiwiZXhwIjoxNzE2MzczMjUxfQ.DBcEZs4-8Wg2NJE_d0Qa6W6qJSgCHoBmUnSuSvnHjQc, RefreshExpireTime=1716373251, Variables={}, Username='ntuMWFGOoQ', UserId='6c3999ec-a25f-44e9-b8cd-1a00ad8a147e')
+2024-05-22 14:50:50.261 17734 17884 Info Unity LionStudios.Suite.NakamaClient.<Connect>d__26:MoveNext()
+2024-05-22 14:50:50.261 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:50.261 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:50.261 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:50.261 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:50.261 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:50.261 17734 17884 Info Unity System.Runtime.Compil
+2024-05-22 14:50:50.459 17734 18061 Info SafeDK SafeDK Device ID: 6b199291-3d98-452e-9d70-84975805fec5
+2024-05-22 14:50:50.460 17734 18061 Info SafeDK SafeDK version: 5.2.6
+2024-05-22 14:50:50.464 17734 17734 Info Dialog mIsDeviceDefault = false, mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+2024-05-22 14:50:50.467 17734 17734 Info DecorView [INFO] isPopOver=false, config=false
+2024-05-22 14:50:50.467 17734 17734 Info DecorView updateCaptionType >> DecorView@e172b66[], isFloating=true, isApplication=true, hasWindowControllerCallback=false, hasWindowDecorCaption=false
+2024-05-22 14:50:50.467 17734 17734 Debug DecorView setCaptionType = 0, this = DecorView@e172b66[]
+2024-05-22 14:50:50.481 17734 18063 Error AppLovinSdk [PersistentPostbackQueueSaveTask] Postbacks queue file does not exist.
+2024-05-22 14:50:50.491 17734 17734 Debug CompatibilityChangeReporter Compat change id reported: 171228096; UID 11890; state: ENABLED
+2024-05-22 14:50:50.495 17734 17734 Debug ScrollView initGoToTop
+2024-05-22 14:50:50.543 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] setView = com.android.internal.policy.DecorView@e172b66 TM=true
+2024-05-22 14:50:50.585 17734 17884 Info Unity Account created: CustomId: , Devices: [Id: 89482d7e92f4fdc5b4997e9ebee93dcf, Vars: []], DisableTime: , Email: , User: AppleId: , AvatarUrl: , CreateTime: 2024-05-07T14:29:23Z, DisplayName: , EdgeCount: 0, FacebookId: , FacebookInstantGameId: , GamecenterId: , GoogleId: , Id: 6c3999ec-a25f-44e9-b8cd-1a00ad8a147e, LangTag: en, Location: , Metadata: {}, Online: False, SteamId: , Timezone: , UpdateTime: 2024-05-07T14:29:23Z, Username: ntuMWFGOoQ, , VerifyTime: , Wallet: {}, 
+2024-05-22 14:50:50.585 17734 17884 Info Unity LionStudios.Suite.NakamaClient.<Connect>d__26:MoveNext()
+2024-05-22 14:50:50.585 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:50.585 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:50.585 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:50.585 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:50.585 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:50.585 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:50.585 17734 17884 Info Unity Nakama.<GetAccountAsync>d__60:MoveNext()
+2024-05-22 14:50:50.585 17734 17884 Info Unity System.Threading.ExecutionConte
+2024-05-22 14:50:50.590 17734 17884 Info Unity [IP-API] Try Get Location
+2024-05-22 14:50:50.590 17734 17884 Info Unity LionStudios.Suite.NakamaClient.NakamaConnector:GetLocation()
+2024-05-22 14:50:50.590 17734 17884 Info Unity LionStudios.Suite.NakamaClient.<Connect>d__16:MoveNext()
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:50.590 17734 17884 Info Unity LionStudios.Suite.NakamaClient.<Connect>d__26:MoveNext()
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:50.590 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetRe
+2024-05-22 14:50:50.659 17734 17884 Info Unity Lion Core: NakamaConnector initialization complete in 2.145658s
+2024-05-22 14:50:50.659 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:50.659 17734 17884 Info Unity LionStudios.Suite.NakamaClient.<Initialize>d__9:MoveNext()
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:50.659 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:50.659 17734 17884 Info Unity LionS
+2024-05-22 14:50:50.662 17734 17763 Info ViewRootImpl@b8b3786[UnityPlayerActivity] Resizing android.view.ViewRootImpl@51d92f8: frame=[44,650][763,1122] reportDraw=true forceLayout=false backDropFrame=Rect(0, 0 - 719, 472)
+2024-05-22 14:50:50.669 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] Relayout returned: old=(0,0,810,1706) new=(44,650,763,1122) req=(719,472)0 dur=10 res=0x7 s={true -5476376662011956720} ch=true fn=-1
+2024-05-22 14:50:50.689 17734 17734 Debug ScrollView  onsize change changed 
+2024-05-22 14:50:50.695 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11420 android.view.ViewRootImpl.performTraversals:4193 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:50:50.707 17734 17734 Info BufferQueueProducer [ViewRootImpl@b8b3786[UnityPlayerActivity]#2(BLAST Consumer)2](id:454600000002,api:2,p:17734,c:17734) queueBuffer: queued for the first time.
+2024-05-22 14:50:50.709 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] [DP] pdf(0) 1 android.view.ViewRootImpl.performDraw:5207 android.view.ViewRootImpl.performTraversals:4212 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:50:50.709 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] [DP] rdf()
+2024-05-22 14:50:50.709 17734 17734 Debug ViewRootImpl@b8b3786[UnityPlayerActivity] reportDrawFinished (fn: -1) 
+2024-05-22 14:50:50.725 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] handleResized, msg = 5 frames=ClientWindowFrames{frame=[44,650][763,1122] display=[0,68][810,1706] backdrop=[0,0][719,472]} forceNextWindowRelayout=false displayId=0 frameChanged=true backdropFrameChanged=true configChanged=false displayChanged=false mNextDrawUseBlastSync=false mergedConfiguration={mGlobalConfig={1.1 404mcc90mnc [en_GB] ldltr sw411dp w411dp h831dp 315dpi nrml long port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 810, 1800) mAppBounds=Rect(0, 67 - 810, 1704) mMaxBounds=Rect(0, 0 - 810, 1800) mWindowingMode=fullscreen mDisplayWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0 mPopOver=off mFreeformTaskPinningState=unpinned} s.5856 fontWeightAdjustment=0 ff=0 bf=0 bts=0 enb/d themeSeq=0} mOverrideConfig={1.1 404mcc90mnc [en_GB] ldltr sw411dp w411dp h831dp 315dpi nrml long port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 810, 1800) mAppBounds=Rect(0, 67 - 810, 1704) mMaxBounds=Rect(0, 0 - 810, 1800) mWindowingMode=fullscreen mDisplayWindowingMode=fullscreen mActivityType=standard mAlwaysOnTop=undefined mRotation=ROTATION_0 mPopOver=off mFreeformTaskPinningState=unpinned} s.1 fontWeightAdjustment=0 ff=0 bf=0 bts=0 enb/d themeSeq=0}}
+2024-05-22 14:50:50.726 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11420 android.view.ViewRootImpl.handleResized:2230 android.view.ViewRootImpl.access$1200:302 
+2024-05-22 14:50:50.774 17734 17752 Info ViewRootImpl@b8b3786[UnityPlayerActivity] Resizing android.view.ViewRootImpl@51d92f8: frame=[44,604][763,1168] reportDraw=false forceLayout=false backDropFrame=Rect(0, 0 - 719, 564)
+2024-05-22 14:50:50.776 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] Relayout returned: old=(44,650,763,1122) new=(44,604,763,1168) req=(719,564)0 dur=18 res=0x1 s={true -5476376662011956720} ch=false fn=2
+2024-05-22 14:50:50.795 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] [DP] pdf(0) 1 android.view.ViewRootImpl.performDraw:5207 android.view.ViewRootImpl.performTraversals:4212 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:50:50.795 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] [DP] rdf()
+2024-05-22 14:50:50.795 17734 17734 Debug ViewRootImpl@b8b3786[UnityPlayerActivity] reportDrawFinished (fn: 2) 
+2024-05-22 14:50:50.799 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] MSG_WINDOW_FOCUS_CHANGED 0 1
+2024-05-22 14:50:50.801 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] handleResized, msg = 4 frames=ClientWindowFrames{frame=[44,604][763,1168] display=[0,68][810,1706] backdrop=[0,0][719,564]} forceNextWindowRelayout=false displayId=0 frameChanged=true backdropFrameChanged=true configChanged=false displayChanged=false mNextDrawUseBlastSync=false mergedConfiguration={mGlobalConfig={1.1 404mcc90mnc [en_GB] ldltr sw411dp w411dp h831dp 315dpi nrml long port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 810, 1800) mAppBounds=Rect(0, 67 - 810, 1704) mMaxBounds=Rect(0, 0 - 810, 1800) mWindowingMode=fullscreen mDisplayWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0 mPopOver=off mFreeformTaskPinningState=unpinned} s.5856 fontWeightAdjustment=0 ff=0 bf=0 bts=0 enb/d themeSeq=0} mOverrideConfig={1.1 404mcc90mnc [en_GB] ldltr sw411dp w411dp h831dp 315dpi nrml long port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 810, 1800) mAppBounds=Rect(0, 67 - 810, 1704) mMaxBounds=Rect(0, 0 - 810, 1800) mWindowingMode=fullscreen mDisplayWindowingMode=fullscreen mActivityType=standard mAlwaysOnTop=undefined mRotation=ROTATION_0 mPopOver=off mFreeformTaskPinningState=unpinned} s.1 fontWeightAdjustment=0 ff=0 bf=0 bts=0 enb/d themeSeq=0}}
+2024-05-22 14:50:50.827 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] MSG_WINDOW_FOCUS_CHANGED 1 1
+2024-05-22 14:50:50.854 17734 17884 Info Unity [IP-API] Updated Location IN / MH
+2024-05-22 14:50:50.854 17734 17884 Info Unity LionStudios.Suite.NakamaClient.<GetUserRegionByIpAsync>d__26:MoveNext()
+2024-05-22 14:50:50.854 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:50.854 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:50.854 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:50.854 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:50.854 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:50.854 17734 17884 Info Unity System.Threading.Tasks.TaskCompletionSource`1:TrySetResult(TResult)
+2024-05-22 14:50:50.854 17734 17884 Info Unity System.Net.WebClient:HandleCompletion(TaskCompletionSource`1, TAsyncCompletedEventArgs, Func`2, TCompletionDelegate, Action`2)
+2024-05-22 14:50:50.854 17734 17884 Info Unity UnityEngine.WorkRequest:Invoke()
+2024-05-22 14:50:50.854 17734 17884 Info Unity UnityEngine.UnitySynchronizationContext:Exec()
+2024-05-22 14:50:50.854 17734 17884 Info Unity 
+2024-05-22 14:50:52.098 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:50:52.152 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:50:52.166 17734 17734 Info ViewRootImpl@b8b3786[UnityPlayerActivity] dispatchDetachedFromWindow
+2024-05-22 14:50:52.186 17734 17734 Debug InputTransport Input channel destroyed: '7023dbb', fd=183
+2024-05-22 14:50:52.191 17734 18063 Debug SensorManager registerListener :: 91, gravity  Non-wakeup, 250000, 0, 
+2024-05-22 14:50:52.200 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] MSG_WINDOW_FOCUS_CHANGED 1 1
+2024-05-22 14:50:52.201 17734 17734 Debug InputMethodManager startInputInner - Id : 0
+2024-05-22 14:50:52.201 17734 17734 Info InputMethodManager startInputInner - mService.startInputOrWindowGainedFocus
+2024-05-22 14:50:52.219 17734 18063 Debug SensorManager registerListener :: 41, lsm6dsm Gyroscope Non-wakeup, 250000, 0, com.applovin.impl.kj@2ac631f
+2024-05-22 14:50:52.223 17734 18063 Debug SensorManager registerListener :: 11, lsm6dsm Accelerometer Non-wakeup, 50000, 0, 
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk [AppLovinSdk] 
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk ========================================
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk =====AppLovin SDK=====
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk ===SDK Versions===
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Version: 12.5.0
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Plugin Version: Max-Unity-6.5.2
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Ad Review Version: 5.2.6
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk OM SDK Version: 1.4.12-Applovin
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk ===Device Info===
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk OS: 12 (S - API 31)
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk GAID: <Enable verbose logging to see the GAID to use for test devices - https://monetization-support.applovin.com/hc/en-us/articles/236114328-How-can-I-expose-verbose-logging-for-the-SDK>
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk App Set ID: <Enable verbose logging to see the App Set ID to use for test devices - https://monetization-support.applovin.com/hc/en-us/articles/236114328-How-can-I-expose-verbose-logging-for-the-SDK>
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Model: SM-M515F
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Locale: en_GB
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Emulator: false
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Tablet: false
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk ===App Info===
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Application ID: com.PixelRelic.RocketsJam
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Target SDK: 33
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk ExoPlayer Version: 2015001
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk ===SDK Settings===
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk SDK Key: CgG1BtqwUb8gNyhBVM-6AoTTU-yyGD9UyFS4QZzB7qdKR94hTICWTvRbNbGfmkw9VEQ8cUSDZFXLFELip15EZB
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Mediation Provider: max
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk TG: 11
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk AEI: 46
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk MEI: 5
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk MD: FR4p/BAVABUAFQAAFQAVABUCABUAFQAVBAAVABUAFQYAFQAVABUIABUAFQAVCgAVABUAFQwAFQAVABUOABUAFQAVEAAVABUAFRIAFQAVABUUABUAFQAVFgAVABUAFRgAFQAVABUaABUAFQAVHAAVABUAFR4AGwAA
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Test Mode On: false
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Verbose Logging On: false
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk ===Privacy States===
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Please review AppLovin MAX documentation to be compliant with regional privacy policies.
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk 
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Age Restricted User - No value set
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Has User Consent - No value set
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk "Do Not Sell" - No value set
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk ===MAX Terms Flow===
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Enabled: true
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Flow Type: MAX Terms and Privacy Policy Flow
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Consent Flow Geography: Other
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Debug User Geography: Other
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Privacy Policy URI: https://lionstudios.cc/privacy/
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk Terms of Service URI: https://lionstudios.cc/terms/
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk ===CMP (CONSENT MANAGEMENT PLATFORM)===
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk 
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk CMP Name - No value set
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk CMP SDK ID - No value set
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk CMP SDK Version - No value set
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk IABTCF_gdprApplies - No value set
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk IABTCF_TCString - No value set
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk IABTCF_AddtlConsent - No value set
+2024-05-22 14:50:52.237 17734 18063 Debug AppLovinSdk ========================================
+2024-05-22 14:50:52.255 17734 18118 Info Unity Debug [AppLovin MAX] Invoking event: OnSdkInitializedEvent. Param: MaxSdkBase+SdkConfiguration
+2024-05-22 14:50:52.255 17734 18118 Info Unity MaxSdkCallbacks:InvokeEvent(Action`1, T, String, Boolean)
+2024-05-22 14:50:52.255 17734 18118 Info Unity MaxSdkCallbacks:ForwardEvent(String)
+2024-05-22 14:50:52.255 17734 18118 Info Unity MaxSdkBase:HandleBackgroundCallback(String)
+2024-05-22 14:50:52.255 17734 18118 Info Unity System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+2024-05-22 14:50:52.255 17734 18118 Info Unity UnityEngine.AndroidJavaProxy:Invoke(String, Object[])
+2024-05-22 14:50:52.255 17734 18118 Info Unity UnityEngine._AndroidJNIHelper:InvokeJavaProxyMethod(AndroidJavaProxy, IntPtr, IntPtr)
+2024-05-22 14:50:52.255 17734 18118 Info Unity 
+2024-05-22 14:50:52.291 17734 17884 Info Unity OnMaxSdkInitialized
+2024-05-22 14:50:52.291 17734 17884 Info Unity LionStudios.Suite.SplashScreen.LogoManager:OnMaxLoaded(SdkConfiguration)
+2024-05-22 14:50:52.291 17734 17884 Info Unity AppLovinMax.Internal.MaxEventExecutor:Update()
+2024-05-22 14:50:52.291 17734 17884 Info Unity 
+2024-05-22 14:50:52.292 17734 17884 Info Unity Lion Core: MaxInitialization initialization complete in 3.853167s
+2024-05-22 14:50:52.292 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.292 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.292 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.292 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.292 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.292 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.292 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.292 17734 17884 Info Unity LionStudios.Suite.ThirdParty.<Initialize>d__13:MoveNext()
+2024-05-22 14:50:52.292 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.292 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.292 17734 17884 Info Unity UnityEngine.WorkRequest:Invoke()
+2024-05-22 14:50:52.292 17734 17884 Info Unity UnityEngine.UnitySynchronizationContext:Exec()
+2024-05-22 14:50:52.292 17734 17884 Info Unity 
+2024-05-22 14:50:52.293 17734 17884 Info Unity Lion Core: Starting initialization of modules with priority: 3
+2024-05-22 14:50:52.293 17734 17884 Info Unity { MessageManager }
+2024-05-22 14:50:52.293 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.293 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.293 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TRe
+2024-05-22 14:50:52.299 17734 17884 Info Unity Calling RPC: LS_GetMessages with payload: {"bundleId":"com.PixelRelic.RocketsJam"}
+2024-05-22 14:50:52.299 17734 17884 Info Unity LionStudios.Suite.NakamaClient.<CallRpc>d__20:MoveNext()
+2024-05-22 14:50:52.299 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:Start(TStateMachine&)
+2024-05-22 14:50:52.299 17734 17884 Info Unity LionStudios.Suite.NakamaClient.NakamaConnector:CallRpc(String, String)
+2024-05-22 14:50:52.299 17734 17884 Info Unity LionStudios.Suite.Messaging.<GetRemoteMessages>d__17:MoveNext()
+2024-05-22 14:50:52.299 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:Start(TStateMachine&)
+2024-05-22 14:50:52.299 17734 17884 Info Unity LionStudios.Suite.Messaging.MessageManager:GetRemoteMessages()
+2024-05-22 14:50:52.299 17734 17884 Info Unity LionStudios.Suite.Messaging.<Initialize>d__20:MoveNext()
+2024-05-22 14:50:52.299 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:52.299 17734 17884 Info Unity LionStudios.Suite.Messaging.MessageManager:Initialize(Dispatcher, CoreData)
+2024-05-22 14:50:52.299 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.299 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:52.299 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:52.299 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:52.299 17734 17884 Info Unity System.Threading.ExecutionContext:RunInterna
+2024-05-22 14:50:52.615 17734 17884 Info Unity Received response to RPC: LS_GetMessages. Response: []
+2024-05-22 14:50:52.615 17734 17884 Info Unity LionStudios.Suite.NakamaClient.<CallRpc>d__20:MoveNext()
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.615 17734 17884 Info Unity Nakama.<RpcAsync>d__97:MoveNext()
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.615 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.615 17734 17884 Info Unity Nakama.<InvokeWithRetry>d__2`1:MoveNext()
+2024-05-22 14:50:52.622 17734 17884 Info Unity Lion Core: MessageManager initialization complete in 0.3258858s
+2024-05-22 14:50:52.622 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.622 17734 17884 Info Unity LionStudios.Suite.Messaging.<Initialize>d__20:MoveNext()
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.622 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.622 17734 17884 Info Unity LionStu
+2024-05-22 14:50:52.625 17734 17884 Info Unity Lion Core: Starting initialization of modules with priority: 5
+2024-05-22 14:50:52.625 17734 17884 Info Unity { AdjustInitialization }
+2024-05-22 14:50:52.625 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.625 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.625 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResu
+2024-05-22 14:50:52.628 17734 17884 Info Unity Lion Core: Initializing Adjust
+2024-05-22 14:50:52.628 17734 17884 Info Unity LionStudios.Suite.ThirdParty.AdjustInitialization:AdjustInit()
+2024-05-22 14:50:52.628 17734 17884 Info Unity LionStudios.Suite.ThirdParty.<Initialize>d__12:MoveNext()
+2024-05-22 14:50:52.628 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:52.628 17734 17884 Info Unity LionStudios.Suite.ThirdParty.AdjustInitialization:Initialize(Dispatcher, CoreData)
+2024-05-22 14:50:52.628 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.628 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:52.628 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:52.628 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:52.628 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.628 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.628 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.628 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.628 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.628 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.628 17734 17884 Info Unity LionStudios.Suite.Co
+2024-05-22 14:50:52.642 17734 17884 Warn Adjust PRODUCTION: Adjust is running in Production mode. Use this setting only for the build that you want to publish. Set the environment to `sandbox` if you want to test your app!
+2024-05-22 14:50:52.642 17734 17884 Warn Adjust PRODUCTION: Adjust is running in Production mode. Use this setting only for the build that you want to publish. Set the environment to `sandbox` if you want to test your app!
+2024-05-22 14:50:52.649 17734 17884 Info Unity Event debug_event was filtered out by Lion Analytics. It will not be sent out.
+2024-05-22 14:50:52.649 17734 17884 Info Unity Check out the documentation for more information on how the filtering works.
+2024-05-22 14:50:52.649 17734 17884 Info Unity EventPriorityLevel: P5
+2024-05-22 14:50:52.649 17734 17884 Info Unity DefaultPriorityLevel: P1
+2024-05-22 14:50:52.649 17734 17884 Info Unity WhitelistPriorityLevel: P1
+2024-05-22 14:50:52.649 17734 17884 Info Unity CountryCode: in
+2024-05-22 14:50:52.649 17734 17884 Info Unity SettingsSource: Remote
+2024-05-22 14:50:52.649 17734 17884 Info Unity SettingsOrigin: Remote
+2024-05-22 14:50:52.649 17734 17884 Info Unity LionStudios.Suite.Analytics.EventsFilter:IsEventEligibleToFire(LionGameEventBase)
+2024-05-22 14:50:52.649 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:50:52.649 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:FireScheduledEvents(EventArgs)
+2024-05-22 14:50:52.649 17734 17884 Info Unity LionStudios.Suite.ThirdParty.<Initialize>d__12:MoveNext()
+2024-05-22 14:50:52.649 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:52.649 17734 17884 Info Unity LionStudios.Suite.ThirdParty.AdjustInitialization:Initialize(Dispatcher, CoreData)
+2024-05-22 14:50:52.649 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.649 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:52.649 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:52.649 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:52.649 17734 17884 Info Unity System.Threading.Execut
+2024-05-22 14:50:52.651 17734 17884 Info Unity Lion Core: AdjustInitialization initialization complete in 0.02398396s
+2024-05-22 14:50:52.651 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.651 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:52.651 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:52.651 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:52.651 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.651 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.651 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.651 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.651 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.651 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.651 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.651 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.651 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.651 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCal
+2024-05-22 14:50:52.653 17734 17884 Info Unity Lion Core: Starting initialization of modules with priority: 6
+2024-05-22 14:50:52.653 17734 17884 Info Unity { HelpshiftInitialization }
+2024-05-22 14:50:52.653 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.653 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.653 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetR
+2024-05-22 14:50:52.655 17734 17884 Info Unity Lion Core: HelpshiftInitialization initialization complete in 1.239777E-05s
+2024-05-22 14:50:52.655 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.655 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+2024-05-22 14:50:52.655 17734 17884 Info Unity LionStudios.Suite.Core.LionCore:InitializeAndTime(ILionModule, Dispatcher, CoreData)
+2024-05-22 14:50:52.655 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:52.655 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.655 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.655 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.655 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.655 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.655 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.655 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.655 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.655 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.655 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:R
+2024-05-22 14:50:52.657 17734 17884 Info Unity LOADING NEXT SCENE
+2024-05-22 14:50:52.657 17734 17884 Info Unity LionStudios.Suite.SplashScreen.LogoManager:ActualLoadScene()
+2024-05-22 14:50:52.657 17734 17884 Info Unity LionStudios.Suite.SplashScreen.LogoManager:OnLionCoreInitialized()
+2024-05-22 14:50:52.657 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:52.657 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.657 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.657 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.657 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.657 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.657 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.657 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.657 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.657 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.657 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.657 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.657 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.657 17734 17884 Info Unity Syste
+2024-05-22 14:50:52.659 17734 17884 Info Unity Event debug_event was filtered out by Lion Analytics. It will not be sent out.
+2024-05-22 14:50:52.659 17734 17884 Info Unity Check out the documentation for more information on how the filtering works.
+2024-05-22 14:50:52.659 17734 17884 Info Unity EventPriorityLevel: P5
+2024-05-22 14:50:52.659 17734 17884 Info Unity DefaultPriorityLevel: P1
+2024-05-22 14:50:52.659 17734 17884 Info Unity WhitelistPriorityLevel: P1
+2024-05-22 14:50:52.659 17734 17884 Info Unity CountryCode: in
+2024-05-22 14:50:52.659 17734 17884 Info Unity SettingsSource: Remote
+2024-05-22 14:50:52.659 17734 17884 Info Unity SettingsOrigin: Remote
+2024-05-22 14:50:52.659 17734 17884 Info Unity LionStudios.Suite.Analytics.EventsFilter:IsEventEligibleToFire(LionGameEventBase)
+2024-05-22 14:50:52.659 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:50:52.659 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:50:52.659 17734 17884 Info Unity LionStudios.Suite.SplashScreen.LionSplashscreenPackageAnalytics:OnSplashscreenCompletes(Single)
+2024-05-22 14:50:52.659 17734 17884 Info Unity LionStudios.Suite.SplashScreen.LogoManager:ActualLoadScene()
+2024-05-22 14:50:52.659 17734 17884 Info Unity LionStudios.Suite.SplashScreen.LogoManager:OnLionCoreInitialized()
+2024-05-22 14:50:52.659 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:52.659 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.659 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.659 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.659 17734 17884 Info Unity System.Threa
+2024-05-22 14:50:52.661 17734 17884 Info Unity Lion Suite v3.5.1 initialized in 7.054084s ...
+2024-05-22 14:50:52.661 17734 17884 Info Unity LionStudios.Suite.Core.<Initialize>d__34:MoveNext()
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.661 17734 17884 Info Unity LionStudios.Suite.Core.<InitializeAndTime>d__35:MoveNext()
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Runtime.CompilerServices.MoveNextRunner:Run()
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Threading.Tasks.Task:FinishContinuations()
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Threading.Tasks.Task`1:TrySetResult(TResult)
+2024-05-22 14:50:52.661 17734 17884 Info Unity System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+2024-05-22 14:50:52.661 17734 17884 Info Unity LionStudios.Suite.Messaging.<
+2024-05-22 14:50:52.853 17734 17884 Info Unity Fired event level_start to Adjust SDK
+2024-05-22 14:50:52.853 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:50:52.853 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:50:52.853 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:50:52.853 17734 17884 Info Unity 
+2024-05-22 14:50:52.854 17734 17884 Info Unity Sending 'Start' event - EventParams (12)
+2024-05-22 14:50:52.854 17734 17884 Info Unity level_start
+2024-05-22 14:50:52.854 17734 17884 Info Unity {
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "levelNum": "1",
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "levelAttempt": 1,
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "missionType": "Level",
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "missionName": "Level",
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "timeInApp": 7,
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "timestamp": "05/22/2024 09:20:52",
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "sequenceId": 0,
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "user_global_level": [
+2024-05-22 14:50:52.854 17734 17884 Info Unity     [
+2024-05-22 14:50:52.854 17734 17884 Info Unity       1,
+2024-05-22 14:50:52.854 17734 17884 Info Unity       "Level"
+2024-05-22 14:50:52.854 17734 17884 Info Unity     ]
+2024-05-22 14:50:52.854 17734 17884 Info Unity   ],
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "debug": "false",
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "store": true,
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "userTutorial": false,
+2024-05-22 14:50:52.854 17734 17884 Info Unity   "additionalData": {
+2024-05-22 14:50:52.854 17734 17884 Info Unity     "lslc-version": "3.5.1",
+2024-05-22 14:50:52.854 17734 17884 Info Unity     "lsla-version": "3.5.0"
+2024-05-22 14:50:52.854 17734 17884 Info Unity   }
+2024-05-22 14:50:52.854 17734 17884 Info Unity }
+2024-05-22 14:50:52.854 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:OnEventFired()
+2024-05-22 14:50:52.854 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:50:52.854 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:50:52.854 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:50:52.854 17734 17884 Info Unity 
+2024-05-22 14:50:52.854 17734 17884 Info Unity Attempt Number1
+2024-05-22 14:50:52.854 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:50:52.854 17734 17884 Info Unity 
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk [MediationDebuggerListAdapter] 
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk ========== MEDIATION DEBUGGER ==========
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk ========== APP INFO ==========
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Dev Build - true
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Test Mode - disabled
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Target SDK - 33
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk ========== MAX ==========
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk SDK Version - 12.5.0
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Plugin Version - Max-Unity-6.5.2
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Ad Review Version - 5.2.6
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Unity Version - 2021.3.27f1
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk ========== PRIVACY ==========
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Age Restricted User - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Has User Consent - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk "Do Not Sell" - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Consent Flow Enabled - true
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Privacy Policy - https://lionstudios.cc/privacy/
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Terms of Service - https://lionstudios.cc/terms/
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk ========== CMP (CONSENT MANAGEMENT PLATFORM) ==========
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk CMP Name - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk CMP SDK ID - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk CMP SDK Version - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk IABTCF_gdprApplies - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk IABTCF_TCString - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk IABTCF_AddtlConsent - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk ========== NETWORK CONSENT STATUSES ==========
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Amazon Ad Marketplace - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Amazon Publisher Services - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk AppLovin - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk BidMachine - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk BIGO Ads - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Chartboost - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk DT Exchange - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Facebook - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Google Ad Manager - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Google AdMob - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk HyprMX - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk InMobi - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk ironSource - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Liftoff Monetize - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk LINE - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Maio - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Mintegral - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk MobileFuse - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Moloco - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Ogury - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Pangle - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Smaato - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Unity Ads - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Verve - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk VK Ad Network - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Yandex - No value set
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk ========== NETWORKS ==========
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk [MediationDebuggerListAdapter] 
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk 
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk ---------- APPLOVIN_NETWORK ----------
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Status  - COMPLETE
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk SDK     - 12.5.0
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk Adapter - 12.5.0
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk ========== AD UNITS ==========
+2024-05-22 14:50:52.901 17734 18063 Debug AppLovinSdk ========== END ==========
+2024-05-22 14:50:52.973 17734 17884 Info Unity Cleanup Blit
+2024-05-22 14:50:52.973 17734 17884 Info Unity UnityEngine.Rendering.Blitter:Cleanup()
+2024-05-22 14:50:52.973 17734 17884 Info Unity UnityEngine.Rendering.Universal.UniversalRenderer:Dispose(Boolean)
+2024-05-22 14:50:52.973 17734 17884 Info Unity UnityEngine.Rendering.Universal.ScriptableRenderer:Dispose()
+2024-05-22 14:50:52.973 17734 17884 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:DestroyRenderer(ScriptableRenderer&)
+2024-05-22 14:50:52.973 17734 17884 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:DestroyRenderers()
+2024-05-22 14:50:52.973 17734 17884 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipeline:Dispose(Boolean)
+2024-05-22 14:50:52.973 17734 17884 Info Unity UnityEngine.Rendering.RenderPipeline:Dispose()
+2024-05-22 14:50:52.973 17734 17884 Info Unity UnityEngine.Rendering.RenderPipelineManager:CleanupRenderPipeline()
+2024-05-22 14:50:52.973 17734 17884 Info Unity UnityEngine.Rendering.RenderPipelineManager:HandleRenderPipelineChange(RenderPipelineAsset)
+2024-05-22 14:50:52.973 17734 17884 Info Unity 
+2024-05-22 14:50:53.231 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:53.231 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:53.231 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:53.231 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:53.233 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:50:53.233 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:50:53.257 17734 17884 Verbose SwappyVk SwappyVk initialized for VkDevice 0xb400006f74856410 using VK_GOOGLE_display_timing on Android
+2024-05-22 14:50:53.258 17734 17884 Info SwappyVk Returning refresh duration of 16666666 nsec (approx 60.000002 Hz)
+2024-05-22 14:50:53.410 17734 17748 Debug InputTransport Input channel destroyed: 'ClientS', fd=175
+2024-05-22 14:50:53.432 17734 17884 Info Unity Cleanup Blit
+2024-05-22 14:50:53.432 17734 17884 Info Unity UnityEngine.Rendering.Blitter:Cleanup()
+2024-05-22 14:50:53.432 17734 17884 Info Unity UnityEngine.Rendering.Universal.UniversalRenderer:Dispose(Boolean)
+2024-05-22 14:50:53.432 17734 17884 Info Unity UnityEngine.Rendering.Universal.ScriptableRenderer:Dispose()
+2024-05-22 14:50:53.432 17734 17884 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:DestroyRenderer(ScriptableRenderer&)
+2024-05-22 14:50:53.432 17734 17884 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:DestroyRenderers()
+2024-05-22 14:50:53.432 17734 17884 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipeline:Dispose(Boolean)
+2024-05-22 14:50:53.432 17734 17884 Info Unity UnityEngine.Rendering.RenderPipeline:Dispose()
+2024-05-22 14:50:53.432 17734 17884 Info Unity UnityEngine.Rendering.RenderPipelineManager:CleanupRenderPipeline()
+2024-05-22 14:50:53.432 17734 17884 Info Unity 
+2024-05-22 14:50:53.447 17734 17989 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0#1(BLAST Consumer)1](id:454600000001,api:1,p:17734,c:17734) queueBuffer: queued for the first time.
+2024-05-22 14:51:11.385 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:11.429 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:12.721 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:12.781 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:13.964 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:14.027 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:15.938 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:16.001 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:17.262 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:17.333 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:19.234 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:19.290 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:20.110 17734 17884 Info Unity Fired event level_complete to Adjust SDK
+2024-05-22 14:51:20.110 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:51:20.110 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:51:20.110 17734 17884 Info Unity rocketManager:levelCompleted()
+2024-05-22 14:51:20.110 17734 17884 Info Unity shootRocket:OnTriggerEnter(Collider)
+2024-05-22 14:51:20.110 17734 17884 Info Unity 
+2024-05-22 14:51:20.112 17734 17884 Info Unity Sending 'Complete' event - EventParams (12)
+2024-05-22 14:51:20.112 17734 17884 Info Unity level_complete
+2024-05-22 14:51:20.112 17734 17884 Info Unity {
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "levelNum": "1",
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "levelAttempt": 1,
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "missionType": "Level",
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "missionName": "Level",
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "timeInLevel": 27,
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "timeInApp": 34,
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "timestamp": "05/22/2024 09:21:20",
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "sequenceId": 1,
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "debug": "false",
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "store": true,
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "userTutorial": false,
+2024-05-22 14:51:20.112 17734 17884 Info Unity   "additionalData": {
+2024-05-22 14:51:20.112 17734 17884 Info Unity     "lslc-version": "3.5.1",
+2024-05-22 14:51:20.112 17734 17884 Info Unity     "lsla-version": "3.5.0"
+2024-05-22 14:51:20.112 17734 17884 Info Unity   }
+2024-05-22 14:51:20.112 17734 17884 Info Unity }
+2024-05-22 14:51:20.112 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:OnEventFired()
+2024-05-22 14:51:20.112 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:51:20.112 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:51:20.112 17734 17884 Info Unity rocketManager:levelCompleted()
+2024-05-22 14:51:20.112 17734 17884 Info Unity shootRocket:OnTriggerEnter(Collider)
+2024-05-22 14:51:20.112 17734 17884 Info Unity 
+2024-05-22 14:51:20.113 17734 17884 Info Unity Level Completed
+2024-05-22 14:51:20.113 17734 17884 Info Unity rocketManager:levelCompleted()
+2024-05-22 14:51:20.113 17734 17884 Info Unity shootRocket:OnTriggerEnter(Collider)
+2024-05-22 14:51:20.113 17734 17884 Info Unity 
+2024-05-22 14:51:21.791 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:21.862 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:24.444 17734 17884 Info Unity Fired event level_start to Adjust SDK
+2024-05-22 14:51:24.444 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:51:24.444 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:51:24.444 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:51:24.444 17734 17884 Info Unity 
+2024-05-22 14:51:24.445 17734 17884 Info Unity Sending 'Start' event - EventParams (12)
+2024-05-22 14:51:24.445 17734 17884 Info Unity level_start
+2024-05-22 14:51:24.445 17734 17884 Info Unity {
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "levelNum": "2",
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "levelAttempt": 1,
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "missionType": "Level",
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "missionName": "Level",
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "timeInApp": 38,
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "timestamp": "05/22/2024 09:21:24",
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "sequenceId": 2,
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "user_global_level": [
+2024-05-22 14:51:24.445 17734 17884 Info Unity     [
+2024-05-22 14:51:24.445 17734 17884 Info Unity       2,
+2024-05-22 14:51:24.445 17734 17884 Info Unity       "Level"
+2024-05-22 14:51:24.445 17734 17884 Info Unity     ]
+2024-05-22 14:51:24.445 17734 17884 Info Unity   ],
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "debug": "false",
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "store": true,
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "userTutorial": false,
+2024-05-22 14:51:24.445 17734 17884 Info Unity   "additionalData": {
+2024-05-22 14:51:24.445 17734 17884 Info Unity     "lslc-version": "3.5.1",
+2024-05-22 14:51:24.445 17734 17884 Info Unity     "lsla-version": "3.5.0"
+2024-05-22 14:51:24.445 17734 17884 Info Unity   }
+2024-05-22 14:51:24.445 17734 17884 Info Unity }
+2024-05-22 14:51:24.445 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:OnEventFired()
+2024-05-22 14:51:24.445 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:51:24.445 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:51:24.445 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:51:24.445 17734 17884 Info Unity 
+2024-05-22 14:51:24.446 17734 17884 Info Unity Attempt Number1
+2024-05-22 14:51:24.446 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:51:24.446 17734 17884 Info Unity 
+2024-05-22 14:51:25.671 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:25.717 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:26.837 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:26.892 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:28.202 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:28.274 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:30.100 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:30.172 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:31.646 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:31.696 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:34.405 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:34.501 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:36.061 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:36.125 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:36.485 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:36.541 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:39.002 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:39.056 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:39.358 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:39.423 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:39.733 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:39.797 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:39.998 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:40.056 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:41.124 17734 17884 Info Unity Fired event level_complete to Adjust SDK
+2024-05-22 14:51:41.124 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:51:41.124 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:51:41.124 17734 17884 Info Unity rocketManager:levelCompleted()
+2024-05-22 14:51:41.124 17734 17884 Info Unity shootRocket:OnTriggerEnter(Collider)
+2024-05-22 14:51:41.124 17734 17884 Info Unity 
+2024-05-22 14:51:41.127 17734 17884 Info Unity Sending 'Complete' event - EventParams (12)
+2024-05-22 14:51:41.127 17734 17884 Info Unity level_complete
+2024-05-22 14:51:41.127 17734 17884 Info Unity {
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "levelNum": "2",
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "levelAttempt": 1,
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "missionType": "Level",
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "missionName": "Level",
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "timeInLevel": 17,
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "timeInApp": 55,
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "timestamp": "05/22/2024 09:21:41",
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "sequenceId": 3,
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "debug": "false",
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "store": true,
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "userTutorial": false,
+2024-05-22 14:51:41.127 17734 17884 Info Unity   "additionalData": {
+2024-05-22 14:51:41.127 17734 17884 Info Unity     "lslc-version": "3.5.1",
+2024-05-22 14:51:41.127 17734 17884 Info Unity     "lsla-version": "3.5.0"
+2024-05-22 14:51:41.127 17734 17884 Info Unity   }
+2024-05-22 14:51:41.127 17734 17884 Info Unity }
+2024-05-22 14:51:41.127 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:OnEventFired()
+2024-05-22 14:51:41.127 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:51:41.127 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:51:41.127 17734 17884 Info Unity rocketManager:levelCompleted()
+2024-05-22 14:51:41.127 17734 17884 Info Unity shootRocket:OnTriggerEnter(Collider)
+2024-05-22 14:51:41.127 17734 17884 Info Unity 
+2024-05-22 14:51:41.128 17734 17884 Info Unity Level Completed
+2024-05-22 14:51:41.128 17734 17884 Info Unity rocketManager:levelCompleted()
+2024-05-22 14:51:41.128 17734 17884 Info Unity shootRocket:OnTriggerEnter(Collider)
+2024-05-22 14:51:41.128 17734 17884 Info Unity 
+2024-05-22 14:51:41.137 17734 17884 Warn Unity <color=#0099bc><b>DOTWEEN ??? </b></color>Tween startup failed (NULL target/property - UnityEngine.Vector3 get_localScale()): the tween will now be killed ??? Object reference not set to an instance of an object.
+2024-05-22 14:51:41.137 17734 17884 Warn Unity DG.Tweening.Tweener:DoStartup(TweenerCore`3)
+2024-05-22 14:51:41.137 17734 17884 Warn Unity DG.Tweening.Core.TweenManager:Update(Tween, Single, Single, Boolean)
+2024-05-22 14:51:41.137 17734 17884 Warn Unity DG.Tweening.Core.TweenManager:Update(UpdateType, Single, Single)
+2024-05-22 14:51:41.137 17734 17884 Warn Unity DG.Tweening.Core.DOTweenComponent:Update()
+2024-05-22 14:51:41.137 17734 17884 Warn Unity 
+2024-05-22 14:51:43.262 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:43.328 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:45.807 17734 17884 Info Unity Fired event level_start to Adjust SDK
+2024-05-22 14:51:45.807 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:51:45.807 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:51:45.807 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:51:45.807 17734 17884 Info Unity 
+2024-05-22 14:51:45.808 17734 17884 Info Unity Sending 'Start' event - EventParams (12)
+2024-05-22 14:51:45.808 17734 17884 Info Unity level_start
+2024-05-22 14:51:45.808 17734 17884 Info Unity {
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "levelNum": "3",
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "levelAttempt": 1,
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "missionType": "Level",
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "missionName": "Level",
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "timeInApp": 59,
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "timestamp": "05/22/2024 09:21:45",
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "sequenceId": 4,
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "user_global_level": [
+2024-05-22 14:51:45.808 17734 17884 Info Unity     [
+2024-05-22 14:51:45.808 17734 17884 Info Unity       3,
+2024-05-22 14:51:45.808 17734 17884 Info Unity       "Level"
+2024-05-22 14:51:45.808 17734 17884 Info Unity     ]
+2024-05-22 14:51:45.808 17734 17884 Info Unity   ],
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "debug": "false",
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "store": true,
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "userTutorial": false,
+2024-05-22 14:51:45.808 17734 17884 Info Unity   "additionalData": {
+2024-05-22 14:51:45.808 17734 17884 Info Unity     "lslc-version": "3.5.1",
+2024-05-22 14:51:45.808 17734 17884 Info Unity     "lsla-version": "3.5.0"
+2024-05-22 14:51:45.808 17734 17884 Info Unity   }
+2024-05-22 14:51:45.808 17734 17884 Info Unity }
+2024-05-22 14:51:45.808 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:OnEventFired()
+2024-05-22 14:51:45.808 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:51:45.808 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:51:45.808 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:51:45.808 17734 17884 Info Unity 
+2024-05-22 14:51:45.808 17734 17884 Info Unity Attempt Number1
+2024-05-22 14:51:45.808 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:51:45.808 17734 17884 Info Unity 
+2024-05-22 14:51:53.662 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:53.736 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:54.924 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:54.986 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:57.121 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:57.200 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:51:59.900 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:51:59.989 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:00.683 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:00.764 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:01.233 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:01.304 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:03.923 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:03.986 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:06.078 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:06.159 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:06.653 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:06.701 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:08.694 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:08.782 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:12.124 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:12.162 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:12.816 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:12.887 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:15.970 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:16.019 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:18.870 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:18.949 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:20.516 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:20.557 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:21.968 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:22.050 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:22.732 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:22.804 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:23.213 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:23.270 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:23.681 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:23.747 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:24.907 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:24.969 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:25.421 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:25.477 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:28.024 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:28.109 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:28.303 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:28.375 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:30.328 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:30.390 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:30.825 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:30.908 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:31.191 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:31.264 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:31.632 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:31.697 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:32.863 17734 17884 Info Unity Fired event level_complete to Adjust SDK
+2024-05-22 14:52:32.863 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:52:32.863 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:52:32.863 17734 17884 Info Unity rocketManager:levelCompleted()
+2024-05-22 14:52:32.863 17734 17884 Info Unity shootRocket:OnTriggerEnter(Collider)
+2024-05-22 14:52:32.863 17734 17884 Info Unity 
+2024-05-22 14:52:32.865 17734 17884 Info Unity Sending 'Complete' event - EventParams (12)
+2024-05-22 14:52:32.865 17734 17884 Info Unity level_complete
+2024-05-22 14:52:32.865 17734 17884 Info Unity {
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "levelNum": "3",
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "levelAttempt": 1,
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "missionType": "Level",
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "missionName": "Level",
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "timeInLevel": 48,
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "timeInApp": 107,
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "timestamp": "05/22/2024 09:22:32",
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "sequenceId": 5,
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "debug": "false",
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "store": true,
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "userTutorial": false,
+2024-05-22 14:52:32.865 17734 17884 Info Unity   "additionalData": {
+2024-05-22 14:52:32.865 17734 17884 Info Unity     "lslc-version": "3.5.1",
+2024-05-22 14:52:32.865 17734 17884 Info Unity     "lsla-version": "3.5.0"
+2024-05-22 14:52:32.865 17734 17884 Info Unity   }
+2024-05-22 14:52:32.865 17734 17884 Info Unity }
+2024-05-22 14:52:32.865 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:OnEventFired()
+2024-05-22 14:52:32.865 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:52:32.865 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:52:32.865 17734 17884 Info Unity rocketManager:levelCompleted()
+2024-05-22 14:52:32.865 17734 17884 Info Unity shootRocket:OnTriggerEnter(Collider)
+2024-05-22 14:52:32.865 17734 17884 Info Unity 
+2024-05-22 14:52:32.866 17734 17884 Info Unity Level Completed
+2024-05-22 14:52:32.866 17734 17884 Info Unity rocketManager:levelCompleted()
+2024-05-22 14:52:32.866 17734 17884 Info Unity shootRocket:OnTriggerEnter(Collider)
+2024-05-22 14:52:32.866 17734 17884 Info Unity 
+2024-05-22 14:52:32.870 17734 17884 Warn Unity <color=#0099bc><b>DOTWEEN ??? </b></color>Target or field is missing/null (Void set_localScale(UnityEngine.Vector3)) ??? Object reference not set to an instance of an object.
+2024-05-22 14:52:32.870 17734 17884 Warn Unity 
+2024-05-22 14:52:32.870 17734 17884 Warn Unity   at UnityEngine.Transform.set_localScale (UnityEngine.Vector3 value) [0x00000] in <00000000000000000000000000000000>:0 
+2024-05-22 14:52:32.870 17734 17884 Warn Unity   at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00000] in <00000000000000000000000000000000>:0 
+2024-05-22 14:52:32.870 17734 17884 Warn Unity   at DG.Tweening.Tween.DoGoto (DG.Tweening.Tween t, System.Single toPosition, System.Int32 toCompletedLoops, DG.Tweening.Core.Enums.UpdateMode updateMode) [0x00000] in <00000000000000000000000000000000>:0 
+2024-05-22 14:52:32.870 17734 17884 Warn Unity   at DG.Tweening.Core.TweenManager.Update (DG.Tweening.Tween t, System.Single deltaTime, System.Single independentTime, System.Boolean isSingleTweenManualUpdate) [0x00000] in <0
+2024-05-22 14:52:32.872 17734 17884 Warn Unity <color=#0099bc><b>DOTWEEN ??? </b></color>Tween startup failed (NULL target/property - UnityEngine.Vector3 get_localScale()): the tween will now be killed ??? Object reference not set to an instance of an object.
+2024-05-22 14:52:32.872 17734 17884 Warn Unity DG.Tweening.Tweener:DoStartup(TweenerCore`3)
+2024-05-22 14:52:32.872 17734 17884 Warn Unity DG.Tweening.Core.TweenManager:Update(Tween, Single, Single, Boolean)
+2024-05-22 14:52:32.872 17734 17884 Warn Unity DG.Tweening.Core.TweenManager:Update(UpdateType, Single, Single)
+2024-05-22 14:52:32.872 17734 17884 Warn Unity DG.Tweening.Core.DOTweenComponent:Update()
+2024-05-22 14:52:32.872 17734 17884 Warn Unity 
+2024-05-22 14:52:54.113 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:52:54.178 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:52:56.631 17734 17884 Info Unity Fired event level_start to Adjust SDK
+2024-05-22 14:52:56.631 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:52:56.631 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:52:56.631 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:52:56.631 17734 17884 Info Unity 
+2024-05-22 14:52:56.631 17734 17884 Info Unity Sending 'Start' event - EventParams (12)
+2024-05-22 14:52:56.631 17734 17884 Info Unity level_start
+2024-05-22 14:52:56.631 17734 17884 Info Unity {
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "levelNum": "4",
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "levelAttempt": 1,
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "missionType": "Level",
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "missionName": "Level",
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "timeInApp": 130,
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "timestamp": "05/22/2024 09:22:56",
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "sequenceId": 6,
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "user_global_level": [
+2024-05-22 14:52:56.631 17734 17884 Info Unity     [
+2024-05-22 14:52:56.631 17734 17884 Info Unity       4,
+2024-05-22 14:52:56.631 17734 17884 Info Unity       "Level"
+2024-05-22 14:52:56.631 17734 17884 Info Unity     ]
+2024-05-22 14:52:56.631 17734 17884 Info Unity   ],
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "debug": "false",
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "store": true,
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "userTutorial": false,
+2024-05-22 14:52:56.631 17734 17884 Info Unity   "additionalData": {
+2024-05-22 14:52:56.631 17734 17884 Info Unity     "lslc-version": "3.5.1",
+2024-05-22 14:52:56.631 17734 17884 Info Unity     "lsla-version": "3.5.0"
+2024-05-22 14:52:56.631 17734 17884 Info Unity   }
+2024-05-22 14:52:56.631 17734 17884 Info Unity }
+2024-05-22 14:52:56.631 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:OnEventFired()
+2024-05-22 14:52:56.631 17734 17884 Info Unity LionStudios.Suite.Analytics.Events.LionGameEventBase:Fire()
+2024-05-22 14:52:56.631 17734 17884 Info Unity LionStudios.Suite.Analytics.EventScheduler:Schedule(Action)
+2024-05-22 14:52:56.631 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:52:56.631 17734 17884 Info Unity 
+2024-05-22 14:52:56.635 17734 17884 Info Unity Attempt Number1
+2024-05-22 14:52:56.635 17734 17884 Info Unity rocketManager:Awake()
+2024-05-22 14:52:56.635 17734 17884 Info Unity 
+2024-05-22 14:52:59.969 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:53:00.147 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:53:02.949 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 0
+2024-05-22 14:53:03.103 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] ViewPostIme pointer 1
+2024-05-22 14:53:03.660 17734 17884 Debug elic.RocketsJa PlayerBase::stop() from IPlayer
+2024-05-22 14:53:03.660 17734 17884 Debug AudioTrack stop(5433): called with 6736512 frames delivered
+2024-05-22 14:53:03.677 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] MSG_WINDOW_FOCUS_CHANGED 0 1
+2024-05-22 14:53:03.751 17734 17734 Debug InputTransport Input channel destroyed: 'ClientS', fd=111
+2024-05-22 14:53:03.952 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] handleAppVisibility mAppVisible=true visible=false
+2024-05-22 14:53:03.956 17734 17734 Info SurfaceView@9f5ce5 onWindowVisibilityChanged(8) false android.view.SurfaceView{9f5ce5 VFE...... .F....I. 0,0-810,1800 #7f0a0143 app:id/unitySurfaceView aid=1073741824} of ViewRootImpl@ceb4c5b[UnityPlayerActivity]
+2024-05-22 14:53:03.957 17734 17734 Info SurfaceView@9f5ce5 pST: sr = Rect(0, 0 - 810, 1800) sw = 810 sh = 1800
+2024-05-22 14:53:03.957 17734 17734 Info SurfaceView@9f5ce5 onSSPAndSRT: pl = 0 pt = 0 sx = 1.0 sy = 1.0
+2024-05-22 14:53:03.958 17734 17734 Info SurfaceView@9f5ce5 pST: mTmpTransaction.apply, mTmpTransaction = android.view.SurfaceControl$Transaction@36a671a
+2024-05-22 14:53:03.960 17734 17734 Info SurfaceView@9f5ce5 surfaceDestroyed callback.size 1 #2 android.view.SurfaceView{9f5ce5 VFE...... .F....I. 0,0-810,1800 #7f0a0143 app:id/unitySurfaceView aid=1073741824}
+2024-05-22 14:53:03.966 17734 18366 Debug OpenGLRenderer RenderThread::requireGlContext()
+2024-05-22 14:53:03.967 17734 18366 Info AdrenoGLES-0 QUALCOMM build                   : e1ac91e, I2b3b5fbd00
+2024-05-22 14:53:03.967 17734 18366 Info AdrenoGLES-0 Build Date                       : 11/17/20
+2024-05-22 14:53:03.967 17734 18366 Info AdrenoGLES-0 OpenGL ES Shader Compiler Version: EV031.32.02.06
+2024-05-22 14:53:03.967 17734 18366 Info AdrenoGLES-0 Local Branch                     : 
+2024-05-22 14:53:03.967 17734 18366 Info AdrenoGLES-0 Remote Branch                    : 
+2024-05-22 14:53:03.967 17734 18366 Info AdrenoGLES-0 Remote Branch                    : 
+2024-05-22 14:53:03.967 17734 18366 Info AdrenoGLES-0 Reconstruct Branch               : 
+2024-05-22 14:53:03.968 17734 18366 Info AdrenoGLES-0 Build Config                     : S P 10.0.7 AArch64
+2024-05-22 14:53:03.968 17734 18366 Info AdrenoGLES-0 Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+2024-05-22 14:53:03.983 17734 18366 Info AdrenoGLES-0 PFP: 0x016ee190, ME: 0x00000000
+2024-05-22 14:53:04.004 17734 18366 Debug OpenGLRenderer RenderThread::setGrContext()
+2024-05-22 14:53:04.063 17734 17734 Info SurfaceView@9f5ce5 updateSurface: mVisible = false mSurface.isValid() = true
+2024-05-22 14:53:04.064 17734 17734 Info SurfaceView@9f5ce5 remove() android.view.SurfaceView{9f5ce5 VFE...... .F....I. 0,0-810,1800 #7f0a0143 app:id/unitySurfaceView aid=1073741824} Surface(name=SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@0)/@0x964cdeb
+2024-05-22 14:53:04.078 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] Relayout returned: old=(0,0,810,1800) new=(0,0,810,1800) req=(810,1800)8 dur=5 res=0x5 s={false 0} ch=true fn=8
+2024-05-22 14:53:04.079 17734 17734 Info SurfaceView@9f5ce5 windowStopped(true) false android.view.SurfaceView{9f5ce5 VFE...... .F....I. 0,0-810,1800 #7f0a0143 app:id/unitySurfaceView aid=1073741824} of ViewRootImpl@ceb4c5b[UnityPlayerActivity]
+2024-05-22 14:53:04.079 17734 17734 Debug SurfaceView@9f5ce5 updateSurface: surface is not valid
+2024-05-22 14:53:04.081 17734 17734 Debug SurfaceView@9f5ce5 updateSurface: surface is not valid
+2024-05-22 14:53:04.096 17734 17734 Debug SensorManager unregisterListener
+2024-05-22 14:53:04.097 17734 17734 Debug SensorManager unregisterListener
+2024-05-22 14:53:04.101 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] stopped(true) old=false
+2024-05-22 14:53:04.115 17734 17734 Debug SurfaceView@9f5ce5 updateSurface: surface is not valid
+2024-05-22 14:53:07.186 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] handleAppVisibility mAppVisible=false visible=true
+2024-05-22 14:53:07.203 17734 17734 Info SurfaceView@9f5ce5 onWindowVisibilityChanged(4) false android.view.SurfaceView{9f5ce5 VFE...... .F....I. 0,0-810,1800 #7f0a0143 app:id/unitySurfaceView aid=1073741824} of ViewRootImpl@ceb4c5b[UnityPlayerActivity]
+2024-05-22 14:53:07.203 17734 17734 Debug SurfaceView@9f5ce5 updateSurface: surface is not valid
+2024-05-22 14:53:07.218 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] Relayout returned: old=(0,0,810,1800) new=(0,0,810,1800) req=(810,1800)4 dur=10 res=0x1 s={false 0} ch=false fn=-1
+2024-05-22 14:53:07.221 17734 17734 Debug SurfaceView@9f5ce5 updateSurface: surface is not valid
+2024-05-22 14:53:07.222 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] stopped(false) old=true
+2024-05-22 14:53:07.224 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] stopped(false) old=false
+2024-05-22 14:53:07.233 17734 17734 Debug SensorManager registerListener :: 91, gravity  Non-wakeup, 250000, 0, 
+2024-05-22 14:53:07.264 17734 17734 Debug SensorManager registerListener :: 41, lsm6dsm Gyroscope Non-wakeup, 250000, 0, com.applovin.impl.kj@2ac631f
+2024-05-22 14:53:07.268 17734 17734 Debug SensorManager registerListener :: 11, lsm6dsm Accelerometer Non-wakeup, 50000, 0, 
+2024-05-22 14:53:07.277 17734 17734 Info DecorView notifyKeepScreenOnChanged: keepScreenOn=false
+2024-05-22 14:53:07.279 17734 17734 Info SurfaceView@9f5ce5 onWindowVisibilityChanged(0) false android.view.SurfaceView{9f5ce5 VFE...... .F....I. 0,0-810,1800 #7f0a0143 app:id/unitySurfaceView aid=1073741824} of ViewRootImpl@ceb4c5b[UnityPlayerActivity]
+2024-05-22 14:53:07.279 17734 17734 Debug SurfaceView@9f5ce5 updateSurface: surface is not valid
+2024-05-22 14:53:07.294 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] Relayout returned: old=(0,0,810,1800) new=(0,0,810,1800) req=(810,1800)0 dur=10 res=0x7 s={true -5476376662012174720} ch=true fn=-1
+2024-05-22 14:53:07.299 17734 17734 Info SurfaceView@9f5ce5 windowStopped(false) true android.view.SurfaceView{9f5ce5 VFE...... .F....I. 0,0-810,1800 #7f0a0143 app:id/unitySurfaceView aid=1073741824} of ViewRootImpl@ceb4c5b[UnityPlayerActivity]
+2024-05-22 14:53:07.315 17734 17734 Info SurfaceView@9f5ce5 pST: sr = Rect(0, 0 - 810, 1800) sw = 810 sh = 1800
+2024-05-22 14:53:07.316 17734 17734 Info SurfaceView@9f5ce5 onSSPAndSRT: pl = 0 pt = 0 sx = 1.0 sy = 1.0
+2024-05-22 14:53:07.316 17734 17734 Info SurfaceView@9f5ce5 pST: mTmpTransaction.apply, mTmpTransaction = android.view.SurfaceControl$Transaction@36a671a
+2024-05-22 14:53:07.317 17734 17734 Info SurfaceView@9f5ce5 updateSurface: mVisible = true mSurface.isValid() = true
+2024-05-22 14:53:07.317 17734 17734 Info SurfaceView@9f5ce5 updateSurface: mSurfaceCreated = false surfaceChanged = true visibleChanged = true
+2024-05-22 14:53:07.317 17734 17734 Info SurfaceView@9f5ce5 surfaceCreated 1 #1 android.view.SurfaceView{9f5ce5 VFE...... .F....I. 0,0-810,1800 #7f0a0143 app:id/unitySurfaceView aid=1073741824}
+2024-05-22 14:53:07.320 17734 17734 Info SurfaceView@9f5ce5 surfaceChanged (810,1800) 1 #1 android.view.SurfaceView{9f5ce5 VFE...... .F....I. 0,0-810,1800 #7f0a0143 app:id/unitySurfaceView aid=1073741824}
+2024-05-22 14:53:07.321 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] dp(1) 1 android.view.SurfaceView.updateSurface:1375 android.view.SurfaceView.setWindowStopped:383 android.view.SurfaceView.surfaceCreated:2051 
+2024-05-22 14:53:07.322 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] pdf(0) 1 android.view.SurfaceView.notifyDrawFinished:599 android.view.SurfaceView.performDrawFinished:586 android.view.SurfaceView.$r8$lambda$st27mCkd9jfJkTrN_P3qIGKX6NY:0 
+2024-05-22 14:53:07.322 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] rdf()
+2024-05-22 14:53:07.322 17734 17734 Debug ViewRootImpl@ceb4c5b[UnityPlayerActivity] reportDrawFinished (fn: -1) 
+2024-05-22 14:53:07.323 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11420 android.view.ViewRootImpl.performTraversals:4193 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:53:07.331 17734 17734 Info BufferQueueProducer [ViewRootImpl@ceb4c5b[UnityPlayerActivity]#3(BLAST Consumer)3](id:454600000003,api:2,p:17734,c:17734) queueBuffer: queued for the first time.
+2024-05-22 14:53:07.335 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] pdf(0) 1 android.view.ViewRootImpl.performDraw:5207 android.view.ViewRootImpl.performTraversals:4212 android.view.ViewRootImpl.doTraversal:2919 
+2024-05-22 14:53:07.335 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] [DP] rdf()
+2024-05-22 14:53:07.335 17734 17734 Debug ViewRootImpl@ceb4c5b[UnityPlayerActivity] reportDrawFinished (fn: -1) 
+2024-05-22 14:53:07.355 17734 17734 Info ViewRootImpl@ceb4c5b[UnityPlayerActivity] MSG_WINDOW_FOCUS_CHANGED 1 1
+2024-05-22 14:53:07.357 17734 17734 Debug InputMethodManager startInputInner - Id : 0
+2024-05-22 14:53:07.357 17734 17734 Info InputMethodManager startInputInner - mService.startInputOrWindowGainedFocus
+2024-05-22 14:53:07.367 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@1#4(BLAST Consumer)4](id:454600000004,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:53:07.367 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:53:07.367 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@1#4(BLAST Consumer)4](id:454600000004,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:53:07.367 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:53:07.373 17734 17884 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@1#4(BLAST Consumer)4](id:454600000004,api:1,p:17734,c:17734) FrameBooster: VULKAN surface was catched
+2024-05-22 14:53:07.373 17734 17884 Debug elic.RocketsJa FrameBooster: InterpolationGui: UID 11890 detected as using Vulkan
+2024-05-22 14:53:07.396 17734 17884 Verbose SwappyVk SwappyVk initialized for VkDevice 0xb400006f74856410 using VK_GOOGLE_display_timing on Android
+2024-05-22 14:53:07.397 17734 17884 Info SwappyVk Returning refresh duration of 16666666 nsec (approx 60.000002 Hz)
+2024-05-22 14:53:07.451 17734 17734 Debug MediaRouter onRestoreRoute() : route=RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+2024-05-22 14:53:07.451 17734 17734 Verbose MediaRouter Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+2024-05-22 14:53:07.475 17734 17989 Info BufferQueueProducer [SurfaceView - com.PixelRelic.RocketsJam/com.unity3d.player.UnityPlayerActivity@9f5ce5@1#4(BLAST Consumer)4](id:454600000004,api:1,p:17734,c:17734) queueBuffer: queued for the first time.
